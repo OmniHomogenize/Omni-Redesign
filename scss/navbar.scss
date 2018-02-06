@@ -1,0 +1,348 @@
+.distributor-selector {
+    position: relative;
+    display: block;
+    margin-top: 5px;
+    padding: 3px;
+    color: $white;
+    border-radius: 4px;
+    background-color: $dark-blue;
+    cursor: pointer;
+    text-align: center;
+    a {
+        display: block;
+        color: inherit;
+        text-align: none;
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+    }
+    &:hover {
+        background-color: darken($dark-blue, 5% );
+    }
+    
+}
+#main-nav {
+    position: relative;
+    margin: 0;
+    z-index: 18;
+    background-color: $dark-blue;
+    box-shadow: 0 0 10px rgba(0,0,0,0.8);
+    width: 100%;
+    top: 0;
+    left: 0;
+    font-size: 0.875em;
+    transition: all 300ms;
+    > .container {
+        position: relative;
+        @media (max-width: $small-width){
+            padding: 0;
+        }
+    }
+    .navbar {
+        margin: 0;
+        border-radius: 0;
+        background-color: $dark-blue;
+        z-index: 22;
+        border: none;
+        .distributor-selector {
+            position: absolute;
+            z-index: 100;
+            border-radius: 4px;
+            border: 1px solid $white;
+            margin: 0;
+            padding: 5px;
+            right: 15px;
+            top: 10px;
+            background-color: $dark-grey;
+            a {
+                font-size: 1em;
+            }
+        }
+        .navbar-toggle {
+            float: left;
+            .icon-bar {
+                background-color: $white;
+            }
+        }
+        .navbar-brand {
+            color: $white;
+            @media (max-width: $small-width){
+                display: none !important;
+            }
+        }
+        a {
+            color: $white;
+            @media (max-width: $small-width){
+                font-size: 0.7em;
+            }
+        }
+        .active a {
+            color: $white;
+            background-color: darken($dark-blue, 5%);
+        }
+        .dropdown a {
+            color: $white;
+        }
+        .dropdown-menu {
+            left: 10px;
+            color: $cool-grey;
+            padding: 10px;
+            a {
+                color: $cool-grey;
+            }
+            .carousel-inner {
+                a img {
+                    max-width: 200px;
+                }
+            }
+        }
+        .dropdown-header {
+            color: $dark-blue;
+            font-size: 1.125em;
+            font-weight: bold;
+            padding: 3px 0;
+            a {
+                color: $dark-blue;
+                font-size: 1.125em;
+                font-weight: bold;
+                padding: 3px 0;
+                &:hover {
+                    color: $dark-blue;
+                }
+            }
+        }
+        
+    }
+    .navbar-default .navbar-nav {
+        .open>a,
+        .navbar-default .navbar-nav>.open>a:focus,
+        .navbar-default .navbar-nav>.open>a:hover {
+            background-color: darken($dark-blue, 5%);
+        }
+    }
+    @media (max-width: $small-width){
+        .navbar-nav ul li {
+            background-color: $white;
+        }
+    }
+    .navbar-nav>li>.dropdown-menu {
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        @media (max-width: $small-width){
+            max-height: 300px;
+            height: auto;
+            overflow-y: auto;
+        }
+    }
+    .mega-dropdown {
+        position: static;
+    }
+    .mega-dropdown-menu {
+        padding: 10px 0px;
+        width: 100%;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    .mega-dropdown-menu > li > ul {
+        padding: 0;
+        margin: 0;
+    }
+    .mega-dropdown-menu > li > ul > li {
+        list-style: none;
+    }
+    .mega-dropdown-menu > li > ul > li > a {
+        display: block;
+        padding: 3px 0;
+        clear: both;
+        font-weight: normal;
+        line-height: 1.428571429;
+        color: $cool-grey;
+        white-space: normal;
+    }
+    .mega-dropdown-menu > li ul > li > a:hover,
+    .mega-dropdown-menu > li ul > li > a:focus {
+        text-decoration: none;
+        color: $dark-grey;
+        background-color: $off-white;
+    }
+    
+    .mega-dropdown-menu form {
+        margin: 3px 20px;
+    }
+    .mega-dropdown-menu .form-group {
+        margin-bottom: 3px;
+    }
+}
+
+@media only screen and (max-width: 972px) {
+    #main-nav {
+        > [class*="col-"] {
+            display: block;
+            float: none;
+        }
+    }
+    .navbar-nav .open .dropdown-menu {
+        position: static;
+        float: none;
+        width: auto;
+        margin-top: 0;
+        background-color: transparent;
+        border: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+    .navbar-header {
+        float: none;
+        @media only screen and (max-width:$small-width){
+            padding: 0 15px;
+        }
+    }
+    .navbar-left,
+    .navbar-right {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none;
+    }
+    .navbar-nav {
+        float: none;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in {
+        display: block;
+    }
+}
+
+
+ul.header-icon-group {
+    position: relative;
+    vertical-align: top;
+    padding: 0 10px 0 0;
+    float: right;
+    cursor: pointer;
+    .account-txt {
+        position: absolute;
+        bottom: -20px;
+        left:  calc(50% - 100px);
+        text-align: center;
+        width: 100px;
+    }
+    .account {
+        vertical-align: middle;
+        cursor: pointer;
+        position: relative;
+        display: inline-block;
+        width: 35px;
+        height: 31.08px;
+        margin: 0 15px 0 0;
+        #account-icon {
+            display: inline-block;
+            vertical-align: middle;
+            margin: 0 0 0 10px;
+            width: 30px;
+            line-height: 31.08px;
+            max-width: 35px;
+            transition: all 300ms;
+            .st0 {fill: $cool-grey;}
+            .st1 {fill: $cool-grey;stroke: $cool-grey;stroke-miterlimit: 10;}
+            .st2 {fill: $white}
+            .st3 {fill: none;stroke: $cool-grey;stroke-miterlimit: 10;}
+        }
+        
+        &:hover {
+            #account-icon {
+                width: 32px;
+                .st0, .st1 {fill: darken($cool-grey, 5%);}
+                .st3 {stroke: darken($cool-grey, 5%);}
+                .st2 {fill: $white;} 
+            }
+        }
+    }
+    li.quote {
+        vertical-align: middle;
+        cursor: pointer;
+        position: relative;
+        display: inline-block;
+        width: 35px;
+        height: 31.08px;
+        margin: 0 15px 0 0;
+        #quote-icon {
+            display: inline-block;
+            vertical-align: middle;
+            margin: 0 0 0 10px;
+            width: 23px;
+            line-height: 31.08px;
+            max-width: 35px;
+            transition: all 300ms;
+        }
+        &:hover {
+            #quote-icon {
+                width: 37px;
+                position: relative;
+                .st0 {
+                    fill: darken($cool-grey, 5%);
+                }
+            }
+        }
+    }
+    li.cart {
+        vertical-align: middle;
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        width: 35px;
+        height: 31.08px;
+        margin: 0 0 0 10px;
+        #cart {
+            max-width: 37px;
+            transition: all 300ms;
+            position: relative;
+        }
+        &:hover {
+            #cart {
+                width: 37px;
+                .st0 {
+                    fill: darken($cool-grey, 5%);
+                }
+            }
+        }
+    }
+    li.quote,
+    li.cart {
+        //padding: 15px 0;
+        margin-top: 13px;
+        .qty {
+            position: absolute;
+            background-color: $dark-grey;
+            color: #ffffff;
+            border-radius: 10px;
+            line-height: 1.3em;
+            top: -0.8em;
+            right: -0.9em;
+            padding: .2em .4em;
+            font-size: 0.9em;
+        }
+    }
+}
+
+
+
+

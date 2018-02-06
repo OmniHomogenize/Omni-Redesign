@@ -1,0 +1,105 @@
+#footer {
+    background-color: $white;
+	overflow: hidden;
+    .top-footer {
+    	width: 100%;
+    	padding: 15px 0;
+    	text-align: center;
+    	background-image: url('../assets/images/new-product-background-small.jpg');
+		background-size: cover;
+		background-position: bottom;
+    	color: $dark-grey;
+    	span {
+			vertical-align: middle;
+			margin-right: 10px;
+			font-size: 24px;
+		}
+		p {
+			margin-bottom: 0;
+		}
+    	a {
+    		vertical-align: middle;
+    	}
+    }
+    .middle-footer {
+    	background-color: $white;
+		padding: 15px 0;
+		.logo {
+			max-width: 150px;
+			display: block;
+		}
+		address {
+			margin-bottom: 0;
+			p {
+				font-size: 14px;
+				line-height: 0.6em;
+			}
+			@media (max-width: 972px){
+				p {
+					line-height: 1em;
+				}
+			}
+		}
+		h4 {
+			font-family: $myriadpro_semibold;
+			font-size: 16px;
+		}
+		ul {
+			margin: 0;
+			padding-left: 15px;
+			li {
+				list-style: none;
+				a {
+					color: $cool-grey;
+					font-size: 14px;
+				}
+			}
+		}
+		@media (max-width: 750px){
+			.logo {
+				margin: 10px auto 20px;
+			}
+			text-align: center;
+		}
+    }
+    .bottom-footer {
+    	padding: 25px 0;
+    	background-color: $dark-grey;
+		color: $white;
+		line-height: 45px;
+		.social-icons {
+	        margin: 0;
+			display: inline-block;
+	        li {
+	            position: relative;
+	            display: inline-block;
+	            vertical-align: middle;
+	            margin: 0;
+	            width: 45px;
+	            height: 45px;
+	            padding: 0;
+	            white-space: nowrap;
+	            border-radius: 0;
+	            overflow: hidden;
+	            text-indent: -2000px;
+	            background-repeat: no-repeat;
+	            border: none;
+	            &.facebook {
+	                background: url('../assets/images/social-icons/facebook.svg');
+	            }
+	            &.twitter {
+	                background: url('../assets/images/social-icons/twitter.svg');
+	            }
+	            &.linkedin {
+	                background: url('../assets/images/social-icons/linkedin.svg');
+	            }
+	            &.instagram {
+	                background: url('../assets/images/social-icons/instagram.svg');
+	            }
+	            a {
+	                margin: 0;
+	            }
+	        }
+	    }
+    }
+}

@@ -1,0 +1,58 @@
+.contact-page {
+	h3 {
+		color: dark-grey;
+	}
+	h4 {
+		color: $light-blue;
+	}
+	
+	.input-group {
+    	position: relative;
+    	width: 80%;
+    	margin-bottom: 10px;
+    	&.wide {
+    		width: 90%;
+		}
+		@media only screen and(max-width: 992px) {
+			&.wide {
+				width: 100%;
+			}
+			width: 100%;
+		}
+    }
+    input[name=message] {
+		height: 150px;
+		vertical-align: top;
+	}
+    .contact-sidebar {
+    	position: relative;
+		margin: 20px auto 0;
+    	img.logo {
+    		margin-bottom: 15px;
+    		max-width: 175px;
+    	}
+    	h4 {
+			font-family: $myriadpro_semibold;
+			font-size: 1.2em;
+			color: $cool-grey;
+			margin-top: 10px;
+		}
+		strong {
+			font-family: $myriadpro_bold;
+		}
+    	address {
+			margin-bottom: 0;
+			p {
+				font-size: 16px;
+				line-height: 0.6em;
+			}
+			@media (max-width: 972px){
+				p {
+					line-height: 1.2em;
+				}
+			}
+		}
+		
+		
+    }
+}

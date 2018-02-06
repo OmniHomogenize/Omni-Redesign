@@ -1,0 +1,387 @@
+.dark-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.8);
+	transition: opacity 300ms;
+	z-index: 99;
+	display: none;
+	transition: all 300ms;
+}
+
+#cart-module, #account-module, #contact-module, #directory-module {
+	position: fixed;
+	min-width: 500px;
+	min-height: 300px;
+	padding: 10px;
+	top: 10%;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: $off-white;
+	border-radius: 5px;
+	z-index: 100;
+	-webkit-box-shadow:  2px 2px 6px rgba(0,0,0,0.1);
+	box-shadow:  2px 2px 6px rgba(0,0,0,0.1);
+	display: none;
+	transition: all 300ms;
+	padding-bottom: 50px;
+	h2 {
+		text-align: center;
+		margin-top: 0;
+	}
+	button {
+		width: 100%;
+	}
+	.messages {
+		display: none;
+	}
+	ul.items {
+		margin: 5px 0;
+		padding: 0;
+		border-top: 1px solid $white;
+		li {
+			overflow: hidden;
+			padding: 3px 0;
+			border-bottom: 1px solid $white;
+			.item {
+				position: relative;
+				box-sizing: border-box;
+				padding-right: 25px;
+				img {
+
+				}
+				.product-name {
+					margin: 0;
+					padding: 0;
+					display: block;
+					font-size: 16px;
+					text-decoration: underline;
+				}
+				i {
+					position: absolute;
+					top: calc(50% - 10px);
+					right: 0;
+					vertical-align: middle;
+					cursor: pointer;
+					&:hover {
+						color: red;
+					}
+				}
+			}
+		}
+	}
+	.remove {
+		i {
+			position: absolute;
+			top: calc(50% - 10px);
+			right: 0;
+			vertical-align: middle;
+		}
+	}
+	.bottom-info {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		background: $cool-grey;
+		padding: 5px 10px;
+		width: 100%;
+		color: $dark-grey;
+		font-family: $myriadpro_semibold;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		h4 {
+			color: $white;
+			float: right;
+		}
+	}
+	.close-module {
+		position: absolute;
+		top: 3px;
+		right: 3px;
+		cursor: pointer;
+		opacity: 0.5;
+		&:hover {
+			opacity: 1;
+		}
+	}
+	@media (max-width: 750px){
+		font-size: 12px;
+		min-width: 100%;
+		.close-module {
+			font-size: 24px;
+		}
+	}
+}
+
+#shopping-cart-module, #quote-module {
+	position: absolute;
+	width: 350px;
+	min-height: 300px;
+	padding: 10px;
+	top: -1000px;
+	right: 15px;
+	border: 1px solid $white;
+	transform: none;
+	background-color: $off-white;
+	border-radius: 0 0 5px 5px;
+	z-index: 3;
+	-webkit-box-shadow:  2px 2px 6px rgba(0,0,0,0.1);
+	box-shadow:  2px 2px 6px rgba(0,0,0,0.1);
+	display: block;
+	transition: all 300ms;
+	-webkit-box-shadow: -10px 10px 22px -2px rgba(0,0,0,0.34);
+	-moz-box-shadow: -10px 10px 22px -2px rgba(0,0,0,0.34);
+	box-shadow: -10px 10px 22px -2px rgba(0,0,0,0.34);
+	padding-bottom: 50px;
+	&.show-cart {
+		top: 50px;
+	}
+	@media only screen and(max-width:972px){
+		right: 0;
+		.item img {
+			display: none;
+		}
+	}
+	h2 {
+		text-align: center;
+		margin-top: 0;
+	}
+	button {
+		width: 100%;
+	}
+	.messages {
+		display: none;
+	}
+	ul.items {
+		margin: 5px 0;
+		padding: 0;
+		border-top: 1px solid $white;
+		li {
+			overflow: hidden;
+			padding: 3px 0;
+			border-bottom: 1px solid $white;
+			.item {
+				position: relative;
+				box-sizing: border-box;
+				padding-right: 25px;
+				img {
+
+				}
+				.product-name {
+					margin: 0;
+					padding: 0;
+					display: block;
+					font-size: 16px;
+					text-decoration: underline;
+				}
+				i {
+					position: absolute;
+					top: calc(50% - 10px);
+					right: 0;
+					vertical-align: middle;
+					cursor: pointer;
+					&:hover {
+						color: red;
+					}
+				}
+			}
+		}
+	}
+	.remove {
+		i {
+			position: absolute;
+			top: calc(50% - 10px);
+			right: 0;
+			vertical-align: middle;
+		}
+	}
+	.bottom-info {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		background: $cool-grey;
+		padding: 5px 10px;
+		width: 100%;
+		color: $dark-grey;
+		font-family: $myriadpro_semibold;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		font-size: 1em;
+		h4 {
+			color: $white;
+			float: right;
+			font-size: 1em;
+		}
+		button.continue-shopping {
+			padding: 5px 10px;
+			background-color: $white;
+			color: $cool-grey;
+			display: inline-block;
+			width: auto;
+			border: none;
+			outline: none;
+			border-radius: 4px;
+			margin: 5px 0;
+			border: 1px solid $white;
+			&:hover {
+				background-color: darken($white, 5%);
+			}
+			i {
+				padding-left: 10px;
+			}
+		}
+	}
+	.close-module, .close-cart, .close-quote {
+		position: absolute;
+		top: 3px;
+		right: 3px;
+		cursor: pointer;
+		opacity: 0.5;
+		&:hover {
+			opacity: 1;
+		}
+	}
+	@media (max-width: 750px){
+		min-width: 100%;
+		.close-module {
+			font-size: 24px;
+		}
+	}
+}
+
+#quote-module {
+	min-height: 200px;
+	padding-bottom: 10px;
+}
+
+.form-wrapper {
+	height: auto;
+	@media (max-width: 750px){
+		overflow-y: scroll;
+		max-height: 400px;
+		overflow-x: hidden;
+	}
+}
+
+#contact-module {
+	padding: 10px;
+	left: 50%;
+  	transform: translateX(-50%);
+	form.form-horizontal .form-group {
+		margin: 0;
+		.input-group {
+			margin: 10px 0;
+			width: 100%;
+		}
+		.submit {
+			margin: 15px 0;
+		}
+	}
+	@media (max-width: 1100px){
+		width: 80%;
+	}
+	@media (max-width: 992px){
+		.col-md-6 {
+			width: 50%;
+		}
+	}
+	@media (max-width: 992px){
+		.col-md-6 {
+			width: 100%;
+		}
+	}
+	@media (max-width: 750px){
+		top: 0;
+		width: 90%;
+		margin: auto;
+	}
+}
+
+#account-module {
+	font-size: 1rem;
+	h3 {
+		border-bottom: 1px solid $shadow-color;
+		padding-bottom: 10px;
+		margin-bottom: 15px;
+		font-size: 2rem;
+	}
+	p {
+		font-size: 1.4rem;
+	}
+	.account-buttons .btn {
+		border-right: 1px solid $white;
+		font-size: 1rem;
+		&:nth-child(3){
+			border-right: none;
+		}
+	}
+	.create-account.btn, .cancel.btn {
+		display: inline-block;
+		width: auto;
+	}
+	.login, .register {
+		margin: 10px auto 20px;
+	}
+	.bottom-info {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		background: $cool-grey;
+		padding: 5px 10px;
+		width: 100%;
+		color: $dark-grey;
+		font-family: $myriadpro_semibold;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		font-size: 1em;
+		h4 {
+			color: $white;
+			float: right;
+			font-size: 1em;
+		}
+		button.logout {
+			padding: 5px 10px;
+			background-color: $white;
+			color: $cool-grey;
+			display: inline-block;
+			width: auto;
+			border: none;
+			outline: none;
+			border-radius: 4px;
+			margin: 5px 0;
+			border: 1px solid $white;
+			&:hover {
+				background-color: darken($white, 5%);
+			}
+			i {
+				padding-left: 10px;
+			}
+		}
+	}
+}
+
+#directory-module {
+	padding: 10px;
+	left: 50%;
+  	transform: translateX(-50%);
+	@media (max-width: 1100px){
+		width: 80%;
+	}
+	@media (max-width: 992px){
+		.col-md-6 {
+			width: 50%;
+		}
+	}
+	@media (max-width: 992px){
+		.col-md-6 {
+			width: 100%;
+		}
+	}
+	@media (max-width: 750px){
+		top: 0;
+		width: 90%;
+		margin: auto;
+	}
+}

@@ -1,0 +1,2987 @@
+[
+	{"products":[
+		{"product":
+			{
+				"id": 1,
+				"product_name": "Bead Ruptor Elite",
+				"sku": "G6-1240",
+				"description": "Designed For: Lysing the toughest samples in seconds. The Bead Ruptor Elite is the most advanced and easy to use bead mill homogenizer available.",
+				"product_link": "http://www.omni-inc.com/bead-ruptors-bead-ruptor-elite.html",
+				"cat_id": "cat-br",
+				"cat_name": "Bead Ruptors",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		}, 
+		{"product":
+			{
+				"id": 2,
+				"product_name": "Bead Ruptor 12",
+				"sku": "G6-1240",
+				"description": "Designed For: Lysing the toughest samples in seconds. The Bead Ruptor Elite is the most advanced and easy to use bead mill homogenizer available.",
+				"product_link": "http://www.omni-inc.com/bead-ruptors-bead-ruptor-12.html",
+				"cat_id": "cat-br",
+				"cat_name": "Bead Ruptors",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		}, 	
+		{"product":
+			{
+				"id": 3,
+				"product_name": "Bead Ruptor 96",
+				"sku": "G6-1240",
+				"description": "Designed For: Lysing the toughest samples in seconds. The Bead Ruptor Elite is the most advanced and easy to use bead mill homogenizer available.",
+				"product_link": "http://www.omni-inc.com/bead-ruptors-bead-ruptor-96.html",
+				"cat_id": "cat-br",
+				"cat_name": "Bead Ruptors",
+				"related_products": [5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 4,
+				"product_name": "μHB MICRO HOMOGENIZER",
+				"sku": "[{115:'UHB-115'}]",
+				"description": "The Omni Micro Homogenizer is a hand-held battery powered rotor-stator homogenizer designed for use inside or outside of a laboratory setting. The Micro homogenizer is powered by a 12 volt lithium ion battery that provides operating speeds from 5,000 to 30,000 rpm for rapid homogenization of samples in volumes from 0.20 mL to 100 mL. It is an ideal solution for field based homogenization procedures involving the processing of tissues or soft plant material.",
+				"product_link": "link",
+				"cat_id": "cat-mixers",
+				"cat_name": "Mixers",
+				"related_products": [97,98,99,100,101,101,102],
+				"sub_cat_name": "",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 5,
+				"product_name": "Bead Mill Tissue DNA Kit(50 prep)",
+				"sku": "26-007b",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "DNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 6,
+				"product_name": "Bead Mill Bacteria DNA Kit(50 prep)",
+				"sku": "26-008b",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "DNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 7,
+				"product_name": "Bead Mill Yeast DNA Kit(50 prep)",
+				"sku": "26-009b",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "DNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 8,
+				"product_name": "Bead Mill Soil DNA Kit(50 prep)",
+				"sku": "26-013G",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "DNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 9,
+				"product_name": "Bead Mill Soil Midi DNA Kit(50 prep)",
+				"sku": "26-013B",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "DNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 10,
+				"product_name": "Bead Mill Fecal DNA Kit(50 prep)",
+				"sku": "26-014B",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "DNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 11,
+				"product_name": "Bead Mill Tissue RNA Kit(50 prep)",
+				"sku": "26-010B",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "RNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 12,
+				"product_name": "Bead Mill Bacteria RNA Kit(50 prep)",
+				"sku": "26-011B",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "RNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 13,
+				"product_name": "Bead Mill Tissue RNA Kit(50 prep)",
+				"sku": "26-012B",
+				"description": "Optimized purification of DNA. Sample types. Tissues, Cells, Bacteria and Fungi | Includes. Capture columns, pre-filled bead tubes and reagents.",
+				"product_link": "link",
+				"cat_id": "cat-nucleic-acid-extraction-kits",
+				"cat_name": "Nucleic Acid Extraction Kits",
+				"related_products": [],
+				"sub_cat_name": "RNA",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 14,
+				"product_name": "0.5 mL Tubes with Screw Caps and O-Rings(Qty:500)",
+				"sku": "19-650",
+				"description": "Bead Ruptor tubes are designed to withstand the high forces generated through the bead milling process.Vol. 500 µL - 50 mL | Quantity. 500 - 1000",
+				"product_link": "link",
+				"cat_id": "cat-bulk-tubes",
+				"cat_name": "Bulk Tubes",
+				"related_products": [],
+				"sub_cat_name": "0.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 15,
+				"product_name": "1.5 mL Microtubes(Qty:500)",
+				"sku": "19-661",
+				"description": "Bead Ruptor tubes are designed to withstand the high forces generated through the bead milling process.Vol. 500 µL - 50 mL | Quantity. 500 - 1000",
+				"product_link": "link",
+				"cat_id": "cat-bulk-tubes",
+				"cat_name": "Bulk Tubes",
+				"related_products": [],
+				"sub_cat_name": "1.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 16,
+				"product_name": "1.5 mL Microtubes(Qty:1000)",
+				"sku": "19-661-1000",
+				"description": "Bead Ruptor tubes are designed to withstand the high forces generated through the bead milling process.Vol. 500 µL - 50 mL | Quantity. 500 - 1000",
+				"product_link": "link",
+				"cat_id": "cat-bulk-tubes",
+				"cat_name": "Bulk Tubes",
+				"related_products": [],
+				"sub_cat_name": "1.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 17,
+				"product_name": "2 mL Non-Reinforced Tubes with Screw Caps & Silicone O-Rings (Qty: 500)",
+				"sku": "19-647",
+				"description": "Bead Ruptor tubes are designed to withstand the high forces generated through the bead milling process.Vol. 500 µL - 50 mL | Quantity. 500 - 1000",
+				"product_link": "link",
+				"cat_id": "cat-bulk-tubes",
+				"cat_name": "Bulk Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 18,
+				"product_name": "2 mL Tubes with Screw Caps & Silicone O-Rings (Qty: 500)",
+				"sku": "19-648",
+				"description": "Bead Ruptor tubes are designed to withstand the high forces generated through the bead milling process.Vol. 500 µL - 50 mL | Quantity. 500 - 1000",
+				"product_link": "link",
+				"cat_id": "cat-bulk-tubes",
+				"cat_name": "Bulk Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 19,
+				"product_name": "2 mL Tubes with Screw Caps & Silicone O-Rings (Qty: 1000)",
+				"sku": "19-649",
+				"description": "Bead Ruptor tubes are designed to withstand the high forces generated through the bead milling process.Vol. 500 µL - 50 mL | Quantity. 500 - 1000",
+				"product_link": "link",
+				"cat_id": "cat-bulk-tubes",
+				"cat_name": "Bulk Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 20,
+				"product_name": "0.1 mm Glass Beads Bulk",
+				"sku": "19-641",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 21,
+				"product_name": "0.5 mm Glass Beads Bulk",
+				"sku": "19-642",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 22,
+				"product_name": "0.15 mm Garnet Beads Bulk",
+				"sku": "19-643",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Garnet",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 23,
+				"product_name": "0.7 mm Garnet Beads Bulk",
+				"sku": "19-644",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Garnet",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 24,
+				"product_name": "1.4 mm Ceramic Beads Bulk",
+				"sku": "19-645",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Ceramic",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 25,
+				"product_name": "2.8 mm Ceramic Beads Bulk",
+				"sku": "19-646",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Ceramic",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 26,
+				"product_name": "6.5 mm Ceramic Beads Bulk",
+				"sku": "19-682",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Ceramic",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 27,
+				"product_name": "2.4 mm Metal Beads Bulk",
+				"sku": "19-682",
+				"description": "Bulk bead media. Certified RNase and DNase free for high analyte integrity Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel. | Bead Size. 100 µm - 3 mm ",
+				"product_link": "link",
+				"cat_id": "cat-bulk-beads",
+				"cat_name": "Bulk Beads",
+				"related_products": [],
+				"sub_cat_name": "Metal",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 28,
+				"product_name": "Micro-Organism Lysing Mix (50 Pack)",
+				"sku": "19-623",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "0.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 29,
+				"product_name": "RNA Extraction & Soil Homogenizing Mix (50 Pack)",
+				"sku": "19-625",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "0.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 30,
+				"product_name": "Soft Tissue Homogenizing Mix (50 Pack)",
+				"sku": "19-626",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "0.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 31,
+				"product_name": "Soft Tissue Homogenizing Mix (50 Pack)",
+				"sku": "19-617",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "1.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 32,
+				"product_name": "Hard Tissue Homogenizing Mix (50 Pack)",
+				"sku": "19-618",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "1.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 33,
+				"product_name": "Hard Tissue Grinding Mix (50 Pack)",
+				"sku": "19-610",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "1.5 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 34,
+				"product_name": "Hard Tissue Homogenizing Mix - Nuclease Free (50 Pack)",
+				"sku": "19-628",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 35,
+				"product_name": "Hard Tissue Homogenizing Mix - Nuclease & Microbial DNA Free (50 Pack)",
+				"sku": "19-628D",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 36,
+				"product_name": "Soft Tissue Homogenizing Mix - Nuclease Free (50 Pack)",
+				"sku": "19-627",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 37,
+				"product_name": "Soft Tissue Homogenizing Mix - Nuclease & Microbial DNA Free (50 Pack)",
+				"sku": "19-627D",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 38,
+				"product_name": "Hard Tissue Grinding Mix - Nuclease Free (50 Pack)",
+				"sku": "19-620",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 39,
+				"product_name": "Hard Tissue Grinding Mix - Nuclease & Microbial DNA Free (50 Pack)",
+				"sku": "19-620D",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 40,
+				"product_name": "Tough Micro-Organism Lysing Mix - Nuclease Free (50 Pack)",
+				"sku": "19-622",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 41,
+				"product_name": "Tough Micro-Organism Lysing Mix - Nuclease & Microbial DNA Free (50 Pack)",
+				"sku": "19-622D",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 42,
+				"product_name": "Micro-Organism Lysing Mix - Nuclease Free (50 Pack)",
+				"sku": "19-621",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 43,
+				"product_name": "Hard & Fibrous Tissue Mix - Nuclease Free (50 Pack)",
+				"sku": "19-624",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-pre-filled-bead-tubes",
+				"cat_name": "Pre Filled Bead Tubes",
+				"related_products": [],
+				"sub_cat_name": "2 mL",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 44,
+				"product_name": "25 mL Milling Jars with O-Rings and Wrenches (Set of 2)",
+				"sku": "27-004",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-milling-supplies",
+				"cat_name": "Milling Supplies",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 45,
+				"product_name": "50 mL Milling Jars with O-Rings and Wrenches (Set of 2)",
+				"sku": "27-006",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-milling-supplies",
+				"cat_name": "Milling Supplies",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 46,
+				"product_name": "10 mm Milling Balls (Set of 10)",
+				"sku": "27-203",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-milling-supplies",
+				"cat_name": "Milling Supplies",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 47,
+				"product_name": "25 mm Milling Balls (Set of 5)",
+				"sku": "27-206",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-milling-supplies",
+				"cat_name": "Milling Supplies",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 48,
+				"product_name": "Microtube or Screw Cap Tube Holder (Set of 2)",
+				"sku": "27-106",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-tube-holders",
+				"cat_name": "Tube Holders",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 49,
+				"product_name": "96 Well Plate Attachment (Set of 2)",
+				"sku": "27-101",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-well-platess",
+				"cat_name": "Well Plates",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 50,
+				"product_name": "2 mL Well Plates (50 Pack)",
+				"sku": "27-500",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-well-platess",
+				"cat_name": "Well Plates",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 51,
+				"product_name": "2 mL Well Plates - Pre Filled with Stainless Steel Beads (5 Pack)",
+				"sku": "27-6005",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-well-platess",
+				"cat_name": "Well Plates",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 52,
+				"product_name": "Well Plate Sealing Mats (50 Pack)",
+				"sku": "27-510",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-well-platess",
+				"cat_name": "Well Plates",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 53,
+				"product_name": "5 mm Stainless Steel Bead Media (500 g)",
+				"sku": "27-7005",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-well-platess",
+				"cat_name": "Well Plates",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 54,
+				"product_name": "5 mm Stainless Steel Bead Media (500 g)",
+				"sku": "27-7005",
+				"description": "Bead tubes are pre-filled with an optimized amount of lysing matrix. Tube Vol. 500 µL - 50 mL. Bead Matrix. Carbide, Ceramic, Garnet, Glass, Stainless Steel | Bead Size. 100 µm - 3 mm",
+				"product_link": "link",
+				"cat_id": "cat-well-platess",
+				"cat_name": "Well Plates",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 55,
+				"product_name": "Omni Mixer Homogenizer",
+				"sku": "[{115:'17105'},{220:'17106'}]",
+				"description": "Since 1956 the Omni Mixer Homogenizer has been synonymous with laboratory homogenizers. The Omni Mixer Homogenizer is a powerful 600 watt homogenizer that is compatible with a wide range of generator probes, blade assemblies and sealed containers to offer the perfect mix of dependability, versatility and power. The Omni mixer is ideally suited for homogenizing, blending and creating emulsions.",
+				"product_link": "link",
+				"cat_id": "cat-mixers",
+				"cat_name": "Mixers",
+				"related_products": [56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96],
+				"sub_cat_name": "",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 56,
+				"product_name": "7 mm X 95 mm Flat Bottom (Fine) Generator Probe",
+				"sku": "15007",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "95 mm",
+				"type": "flat Bottom",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 57,
+				"product_name": "7 mm X 195 mm Flat Bottom (Fine) Generator Probe",
+				"sku": "15007L",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "195 mm",
+				"type": "flat Bottom",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 58,
+				"product_name": "7 mm X 95 mm Flat Bottom (Coarse) Generator Probe",
+				"sku": "15007W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "195 mm",
+				"type": "flat Bottom",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 59,
+				"product_name": "7 mm X 195 mm Flat Bottom (Coarse) Generator Probe",
+				"sku": "15007LW",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "195 mm",
+				"type": "flat Bottom",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 60,
+				"product_name": "7 mm X 95 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "15007ST",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 61,
+				"product_name": "7 mm X 195 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "15007LST",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 62,
+				"product_name": "7 mm X 95 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "15007STW",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "95 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 63,
+				"product_name": "7 mm X 195 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "15007LSTW",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 64,
+				"product_name": "10 mm X 95 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "15051",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "95 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 65,
+				"product_name": "10 mm X 195 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "15010",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 66,
+				"product_name": "10 mm X 95 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "15010W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "95 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 67,
+				"product_name": "10 mm X 195 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "15051W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 68,
+				"product_name": "20 mm X 100 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "15201",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "100 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 69,
+				"product_name": "20 mm X 100 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "15201W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "100 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 70,
+				"product_name": "20 mm X 145 mm Saw Tooth (fine) Generator Probe",
+				"sku": "15401",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "145 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 71,
+				"product_name": "20 mm X 145 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "15401W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "145 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 72,
+				"product_name": "20 mm X 195 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "15020",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 73,
+				"product_name": "20 mm X 195 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "15020W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 74,
+				"product_name": "30 mm X 195 mm Flat Bottom (Fine) Generator Probe",
+				"sku": "150-30NA-195",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "30 mm",
+				"length": "195 mm",
+				"type": "flat bottom",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "30 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 75,
+				"product_name": "30 mm X 195 mm Flat Bottom (Coarse) Generator Probe",
+				"sku": "150-30WA-195",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "30 mm",
+				"length": "195 mm",
+				"type": "flat bottom",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "30 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 76,
+				"product_name": "50 mL S.S. Chamber Assembly - 1 Inch Blade & PTFE Bearings",
+				"sku": "17077",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "50 mL",
+				"related_products": [],
+				"sub_cat_name": "Stainless Steel",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 77,
+				"product_name": "50 mL S.S. Chamber Assembly with 10 mm Probe",
+				"sku": "15050",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "50 mL",
+				"related_products": [],
+				"sub_cat_name": "Stainless Steel",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 78,
+				"product_name": "400 mL S.S. Chamber Assembly - 2 Inch Blade & PTFE Bearings",
+				"sku": "17079",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "400 mL",
+				"related_products": [],
+				"sub_cat_name": "Stainless Steel",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 79,
+				"product_name": "400 mL S.S. Chamber Assembly with 20 mm Probe",
+				"sku": "15400",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "400 mL",
+				"related_products": [],
+				"sub_cat_name": "Stainless Steel",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 80,
+				"product_name": "50 mL Glass Chamber Assembly with 1 Inch Cutting Blade",
+				"sku": "17064",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "50 mL",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 81,
+				"product_name": "50 mL Glass Chamber Assembly with 10 mm Probe",
+				"sku": "15064",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "50 mL",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 82,
+				"product_name": "473 mL Glass Chamber Assembly - 2 Inch Blade & PTFE Bearings",
+				"sku": "17080",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "473 mL",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 83,
+				"product_name": "473 mL Glass Chamber Assembly with 20 mm Probe",
+				"sku": "15080",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "473 mL",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 84,
+				"product_name": "946 mL Glass Chamber Assembly - 2 Inch Blade & PTFE Bearings",
+				"sku": "17081",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "946 mL",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 85,
+				"product_name": "946 mL Glass Chamber Assembly with 20 mm Probe",
+				"sku": "15081",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "946 mL",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 86,
+				"product_name": "946 mL Glass Chamber with 20 mm Wide Window Probe",
+				"sku": "15081W",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "946 mL",
+				"related_products": [],
+				"sub_cat_name": "Glass",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 87,
+				"product_name": "473 mL Polypropylene Chamber Assembly with 2 Inch Blade",
+				"sku": "17065",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "473 mL",
+				"related_products": [],
+				"sub_cat_name": "Plastic",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 88,
+				"product_name": "473 mL Polypropylene Chamber Assembly with 20 mm Probe",
+				"sku": "15065",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "473 mL",
+				"related_products": [],
+				"sub_cat_name": "Plastic",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 89,
+				"product_name": "946 mL Polypropylene Chamber Assembly with 2 Inch Blade",
+				"sku": "17097",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "946 mL",
+				"related_products": [],
+				"sub_cat_name": "Plastic",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 90,
+				"product_name": "1892 mL Polypropylene Chamber Assembly with 2 Inch Blade",
+				"sku": "17098",
+				"description": "Fluted chamber design to facilitate sample flow and mixing",
+				"product_link": "link",
+				"cat_id": "cat-sealed-chamber-assembly",
+				"cat_name": "Sealed Chamber Assemblies",
+				"volume": "1892 mL",
+				"related_products": [],
+				"sub_cat_name": "Plastic",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 91,
+				"product_name": "Generator Probe Adapter",
+				"sku": "15001",
+				"description": "Adapter is required for all Mixer Style Homogenizer Product Line generator probes. (One adapter is included with each Omni Mixer, Omni Macro, and Omni Macro-ES)",
+				"product_link": "link",
+				"cat_id": "cat-adapters",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 125,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 92,
+				"product_name": "Quick Connect Coupling Assembly",
+				"sku": "17215",
+				"description": "The Quick Connect Assembly makes your Omni Mixer homogenizers even more convenient to use. The QCA is easy to install on your existing unit. It comes standard on the Omni Macro-ES and Omni Max. To use, attach a QCA adapter to your chamber assembly or generator probe. Next, slide the adapter in the QCA Slider assembly and a retaining ring positions into place for a secure hold. To disconnect, merely slide the ring upward and the processing accessory is conveniently released.",
+				"product_link": "link",
+				"cat_id": "cat-adapters",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 125,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 93,
+				"product_name": "Quick Connect Coupling",
+				"sku": "17210",
+				"description": "The Quick Connect Assembly (QCA) makes your Omni Mixer Series homogenizer even more convenient to use. The QCA is easy to install on your existing unit. It comes standard on the Omni Macro-ES and Omni Max. To use, attach a Quick Connect Adapter (not included) to your chamber assembly or generator probe. Next, slide the adapter in the Quick Connect Coupling and a retaining ring positions into place for a secure hold. To disconnect, merely slide the ring upward and the processing accessory is conveniently released.",
+				"product_link": "link",
+				"cat_id": "cat-adapters",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 125,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 94,
+				"product_name": "QCA Adapter",
+				"sku": "17204",
+				"description": "The Quick Connect Assembly (QCA) makes your Omni Mixer Series homogenizer even more convenient to use. The QCA is easy to install on your existing unit. It comes standard on the Omni Macro-ES and Omni Max. To use, attach a Quick Connect Adapter (not included) to your chamber assembly or generator probe. Next, slide the adapter in the Quick Connect Coupling and a retaining ring positions into place for a secure hold. To disconnect, merely slide the ring upward and the processing accessory is conveniently released.",
+				"product_link": "link",
+				"cat_id": "cat-adapters",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 120,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 95,
+				"product_name": "Vessel Restraint Disk",
+				"sku": "LT-750",
+				"description": "The Vessel Restraint Disk can be used to help reduce splashing and contain aerosols during homogenization. This accessory is compatible with 20 mm and larger diameter rotor-stator generator probes and with containers up to six inches in diameter. The Vessel Restraint Disk also helps secure the container during processing.",
+				"product_link": "link",
+				"cat_id": "cat-adapters",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 235,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 96,
+				"product_name": "Tool Kit for Mixer, Macro, & MES Homogenizers",
+				"sku": "17104",
+				"description": "Tool Kit for Mixer, Macro, & MES Homogenizers",
+				"product_link": "link",
+				"cat_id": "cat-replacement-part-and-tools",
+				"cat_name": "Replacement Parts & Tools",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 97,
+				"product_name": "5 mm x 75 mm Flat Bottom (Fine) Generator Probe",
+				"sku": "B5-075",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "5 mm",
+				"length": "75 mm",
+				"type": "flat bottom",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "5 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 98,
+				"product_name": "5 mm x 75 mm Flat Bottom (Fine) Generator Probes (6 Pack)",
+				"sku": "B5-075-6",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "5 mm",
+				"length": "75 mm",
+				"type": "flat bottom",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 99,
+				"product_name": "7 mm x 110 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "B7-110ST",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "110 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 100,
+				"product_name": "7 mm x 110 mm Saw Tooth (Fine) Generator Probes (6 Pack)",
+				"sku": "B7-110ST-6",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "110 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 101,
+				"product_name": "10 mm x 110 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "B10-110ST",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "110 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 102,
+				"product_name": "10 mm x 110 mm Saw Tooth (Fine) Generator Probes (6 Pack)",
+				"sku": "B10-110ST-6",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearing. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "110 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 2950,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 103,
+				"product_name": "Tube Carriage 154 mm",
+				"sku": "TC-154MM",
+				"description": "Designed For: Lysing the toughest samples in seconds. The Bead Ruptor Elite is the most advanced and easy to use bead mill homogenizer available.",
+				"product_link": "link",
+				"cat_id": "cat-tc",
+				"cat_name": "Tube Carriages",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 149.99,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 104,
+				"product_name": "THQ Digital Tissue Homogenizer",
+				"sku": "12-500",
+				"description": "Homogenize more reliably & more comfortably with the Omni THQ, a digital tissue homogenizer that provides extremely accurate and repeatable results in a lightweight, hand-held design. It includes an integrated digital speed display that ensures consistent results for a variety of laboratory applications.",
+				"product_link": "link",
+				"cat_id": "cat-rotor-stator",
+				"cat_name": "Rotor Stator",
+				"related_products": [97,98,99,100,101,101,102],
+				"sub_cat_name": "",
+				"price": 1995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 105,
+				"product_name": "GLH 850 GENERAL LABORATORY HOMOGENIZER",
+				"sku": "20-010",
+				"description": "The Omni GLH 850General Laboratory Homogenizer is a powerful 850 watt homogenizer that was specifically designed to disrupt a wide range of samples in volumes ranging from 200 ul to 5 L.  The Omni GLH is compatible with stainless steel generator probes ranging in diameter from 5 mm to 30 mm  and 7 mm Omni Tips. The GLH quickly and efficiently processes a wide variety of sample and the 850 watt motor is capable of processing even the toughest samples.",
+				"product_link": "link",
+				"cat_id": "cat-rotor-stator",
+				"cat_name": "Rotor Stator",
+				"related_products": [106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136],
+				"sub_cat_name": "",
+				"price": 1795,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 106,
+				"product_name": "Omni Tip Adapter (Pre-2016)",
+				"sku": "A1000SB",
+				"description": "Required to use Omni Tip™ Plastic Probes with Omni TH (with black nose ring or models before 2016), µH, GLH and PDH.",
+				"product_link": "link",
+				"cat_id": "cat-adapter",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 205,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 107,
+				"product_name": "Vessel Restraint Disk",
+				"sku": "LT-750",
+				"description": "The Vessel Restraint Disk can be used to help reduce splashing and contain aerosols during homogenization. This accessory is compatible with 20 mm and larger diameter rotor-stator generator probes and with containers up to six inches in diameter. The Vessel Restraint Disk also helps secure the container during processing.",
+				"product_link": "link",
+				"cat_id": "cat-adapter",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 235,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 108,
+				"product_name": "Motor Stand Assembly for TH, THQ, and GLH Homogenizers",
+				"sku": "S1000",
+				"description": "The Vessel Restraint Disk can be used to help reduce splashing and contain aerosols during homogenization. This accessory is compatible with 20 mm and larger diameter rotor-stator generator probes and with containers up to six inches in diameter. The Vessel Restraint Disk also helps secure the container during processing.",
+				"product_link": "link",
+				"cat_id": "cat-stands-and-clamps",
+				"cat_name": "Stands and Clamps",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 235,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 109,
+				"product_name": "Cross Rod for TH, THQ, GLH, and Micro Homogenizers",
+				"sku": "S0040",
+				"description": "For mounting motor to any ring stand 6.25 in. long 3/8 in. diameter Stainless steel construction.",
+				"product_link": "link",
+				"cat_id": "cat-stands-and-clamps",
+				"cat_name": "Stands and Clamps",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 65,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 110,
+				"product_name": "5 mm x 75 mm Flat Bottom (Fine) Generator Probe",
+				"sku": "G5-75",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "5 mm",
+				"length": "75 mm",
+				"type": "flat bottom",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "5 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 111,
+				"product_name": "5 mm x 75 mm Flat Bottom (Coarse) Generator Probe",
+				"sku": "G5-75W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "5 mm",
+				"length": "75 mm",
+				"type": "flat bottom",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "5 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 112,
+				"product_name": "5 mm x 75 mm Flat Bottom (Coarse) Generator Probe",
+				"sku": "G5-75W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "5 mm",
+				"length": "75 mm",
+				"type": "flat bottom",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "5 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 113,
+				"product_name": "7 mm x 115 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "G7-115ST",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "115 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 114,
+				"product_name": "7 mm x 115 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "G7-115STW",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "7 mm",
+				"length": "115 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "7 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 115,
+				"product_name": "10 mm x 115 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "G10-115",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "115 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 116,
+				"product_name": "10 mm x 115 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "G10-115W",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "10 mm",
+				"length": "115 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "10 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 117,
+				"product_name": "20 mm x 195 mm Saw Tooth (Fine) Generator Probe",
+				"sku": "G20-195ST",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 118,
+				"product_name": "20 mm x 195 mm Saw Tooth (Coarse) Generator Probe",
+				"sku": "G20-195STW",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "20 mm",
+				"length": "195 mm",
+				"type": "saw tooth",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "20 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 119,
+				"product_name": "30 mm x 195 mm Flat Bottom (Fine) Generator Probe",
+				"sku": "G-30NA-195",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "30 mm",
+				"length": "195 mm",
+				"type": "flat bottom",
+				"window_size": "fine",
+				"related_products": [],
+				"sub_cat_name": "30 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 120,
+				"product_name": "30 mm x 195 mm Flat Bottom (Coarse) Generator Probe",
+				"sku": "G-30WA-195",
+				"description": "Stator design allows fine to medium samples to pass through the processing windows. Comes with PTFE  upper and lower bearings. The entire probe can be autoclaved, or easily disassembled for cleaning. Optional Stainless steel upper bearings extend bearing life but are not autoclavable.",
+				"product_link": "link",
+				"cat_id": "cat-generator-probe",
+				"cat_name": "Generator Probes",
+				"diameter": "30 mm",
+				"length": "195 mm",
+				"type": "flat bottom",
+				"window_size": "coarse",
+				"related_products": [],
+				"sub_cat_name": "30 mm",
+				"price": 995,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 121,
+				"product_name": "Hard Tissue Omni Tip™ Plastic Homogenizing Probes (25 pack)",
+				"sku": "30750H",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hard Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 122,
+				"product_name": "Hard Tissue Omni Tip™ Plastic Homogenizing Probes (50 pack)",
+				"sku": "32750H",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hard Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 122,
+				"product_name": "Hard Tissue Omni Tip™ Plastic Homogenizing Probes (100 pack)",
+				"sku": "34750H",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hard Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 123,
+				"product_name": "Hard Tissue Omni Tip™ Plastic Homogenizing Probes (500 pack)",
+				"sku": "35750H",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hard Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 124,
+				"product_name": "Hard Tissue Omni Tip™ Plastic Homogenizing Probes (1000 pack)",
+				"sku": "3M750H",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hard Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 125,
+				"product_name": "Soft Tissue Omni Tip™ Plastic Homogenizing Probes (25 pack)",
+				"sku": "30750",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Soft Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 126,
+				"product_name": "Soft Tissue Omni Tip™ Plastic Homogenizing Probes (50 pack)",
+				"sku": "32750",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Soft Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 126,
+				"product_name": "Soft Tissue Omni Tip™ Plastic Homogenizing Probes (100 pack)",
+				"sku": "34750",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Soft Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 127,
+				"product_name": "Soft Tissue Omni Tip™ Plastic Homogenizing Probes (500 pack)",
+				"sku": "35750",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Soft Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 128,
+				"product_name": "Soft Tissue Omni Tip™ Plastic Homogenizing Probes (1000 pack)",
+				"sku": "3M750",
+				"description": "The Omni Tips’ patented design eliminates the hassle of disassembly and maintenance of traditional stainless steel generators.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Soft Tissue",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 129,
+				"product_name": "7 mm Omni Tip™ Hybrid Probe (Stainless Steel & Plastic)",
+				"sku": "22-007",
+				"description": "The new Omni Tip™ Hybrid Homogenizer Probes combine the convenience of disposable plastic probes with the durability of traditional stainless steel probes.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hybrid",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 130,
+				"product_name": "7 mm Omni Tip™ Hybrid Probes (6 Pack)",
+				"sku": "22-007-6",
+				"description": "The new Omni Tip™ Hybrid Homogenizer Probes combine the convenience of disposable plastic probes with the durability of traditional stainless steel probes.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hybrid",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 131,
+				"product_name": "Omni Tip™ Hybrid Probe Hard Tissue Replacement Shafts (Pack of 25)",
+				"sku": "301725HT",
+				"description": "The new Omni Tip™ Hybrid Homogenizer Probes combine the convenience of disposable plastic probes with the durability of traditional stainless steel probes.",
+				"product_link": "link",
+				"cat_id": "cat-omni-tip",
+				"cat_name": "Omni Tips",
+				"related_products": [],
+				"sub_cat_name": "Hybrid",
+				"price": 275,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 132,
+				"product_name": "4 mL Sealed Glass Tubes (25 Tubes with Sealed Caps)",
+				"sku": "00-2004-25",
+				"description": "4 mL glass tubes with sealed caps are used with clear Omni Tip™ Plastic Generator Probes to reduce harmful airborne contaminants. Sealed tubes are designed as a secondary means of protection. Always use appropriate measures when processing pathogens.",
+				"product_link": "link",
+				"cat_id": "cat-sealed-sample-tubes",
+				"cat_name": "Sealed Sample Tubes",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 155,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 133,
+				"product_name": "8 mL Sealed Glass Tubes (25 Tubes with Sealed Caps)",
+				"sku": "00-2008-25",
+				"description": "8 mL glass tubes with sealed caps are used with clear Omni Tip™ Plastic Generator Probes to reduce harmful airborne contaminants. Sealed tubes are designed as a secondary means of protection. Always use appropriate measures when processing pathogens.",
+				"product_link": "link",
+				"cat_id": "cat-sealed-sample-tubes",
+				"cat_name": "Sealed Sample Tubes",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 155,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 134,
+				"product_name": "15 mL Sealed Glass Tubes (25 Tubes with Sealed Caps)",
+				"sku": "00-2015-25",
+				"description": "15 mL glass tubes with sealed caps are used with clear Omni Tip™ Plastic Generator Probes to reduce harmful airborne contaminants. Sealed tubes are designed as a secondary means of protection. Always use appropriate measures when processing pathogens.",
+				"product_link": "link",
+				"cat_id": "cat-sealed-sample-tubes",
+				"cat_name": "Sealed Sample Tubes",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 155,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 135,
+				"product_name": "50 mL Sealed Glass Tubes (25 Tubes with Sealed Caps)",
+				"sku": "00-2050-25",
+				"description": "50 mL glass tubes with sealed caps are used with clear Omni Tip™ Plastic Generator Probes to reduce harmful airborne contaminants. Sealed tubes are designed as a secondary means of protection. Always use appropriate measures when processing pathogens.",
+				"product_link": "link",
+				"cat_id": "cat-sealed-sample-tubes",
+				"cat_name": "Sealed Sample Tubes",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 155,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 136,
+				"product_name": "Motor Stand Assembly for TH, THQ, and GLH Homogenizers",
+				"sku": "T1001",
+				"description": "Generator Probe Tool Kit for µH, TH and GLH Homogenizers",
+				"product_link": "link",
+				"cat_id": "cat-replacement-parts-and-tools",
+				"cat_name": "Replacement parts and Tools",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 65,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 137,
+				"product_name": "TH TISSUE HOMOGENIZER",
+				"sku": "[{115v: TH115}, {220v: TH220}]",
+				"description": "The redesigned Omni TH is a powerful Tissue Homogenizer designed to handle a wide range of laboratory samples from 0.2 mL to 100 mL in volume. The TH can usually process a tissue sample in less than 30 seconds and is compatible with a wide variety of generator probes for flexibility in application requirements.",
+				"product_link": "link",
+				"cat_id": "cat-rotor-stator",
+				"cat_name": "Rotor Stator",
+				"related_products": [138,139,108,109,110,111,113,114,115,116,121,122,123,124,125,126,127,128,132,133,134,135],
+				"sub_cat_name": "",
+				"price": 875,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 138,
+				"product_name": "Omni Tip Adapter (Post-2015)",
+				"sku": "12-120",
+				"description": "Required to use Omni Tip",
+				"product_link": "link",
+				"cat_id": "cat-adapter",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 125,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		},
+		{"product":
+			{
+				"id": 139,
+				"product_name": "Omni Tip Adapter (Pre-2016)",
+				"sku": "A1000SB",
+				"description": "Required to use Omni Tip",
+				"product_link": "link",
+				"cat_id": "cat-adapter",
+				"cat_name": "Adapters",
+				"related_products": [],
+				"sub_cat_name": "",
+				"price": 125,
+				"quantity": 1,
+				"images": [{
+					"thumbnail": "http://via.placeholder.com/100x100/444444/ffffff?text=Product-Image",
+					"small": "assets/images/product/small/product.jpg",
+					"large": "assets/images/product/large/product.jpg"
+				}]
+			}
+		}
+	]}
+]
