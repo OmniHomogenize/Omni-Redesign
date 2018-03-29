@@ -368,7 +368,7 @@
                         <ul>
                             <li class="list-group-item"><a href="#">Distributor Locator</a></li>
                             <li class="list-group-item"><a href="#">News</a></li>
-                            <li class="list-group-item"><a href="#">Industries</a></li>
+                            <li class="list-group-item"><a href="<?php echo $baseURL ?>industries-page.php">Industries</a></li>
                             <li class="list-group-item"><a href="#">About Us</a></li>
                         </ul>
                     </nav>
@@ -462,44 +462,44 @@
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header"><a href="">Bead Mill Homogenizers</a></li>
-                                        <li><a href="#">Bead Ruptor 4</a></li>
-                                        <li><a href="#">Bead Ruptor 12</a></li>
-                                        <li><a href="#">Bead Ruptor 24 Elite</a></li>
-                                        <li><a href="#">Bead Ruptor 96</a></li>
-                                        <li><a href="#">Bead Ruptor Cryo Cooling Unit</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bead Ruptor 4</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bead Ruptor 12</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bead Ruptor 24 Elite</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bead Ruptor 96</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bead Ruptor Cryo Cooling Unit</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header"><a href="">Manual Tissue Grinders</a></li>
-                                        <li><a href="#">BioMasher Single-Use</a></li>
-                                        <li><a href="#">Dounce Glass Tissue</a></li>
-                                        <li><a href="#">Tenbroeck Glass Tissue</a></li>
-                                        <li><a href="#">Potter-Elvehjem Tissue</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">BioMasher Single-Use</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Dounce Glass Tissue</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Tenbroeck Glass Tissue</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Potter-Elvehjem Tissue</a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header"><a href="">Rotor Stator Homogenizers</a></li>
-                                        <li><a href="#">TH Tissue Homogenizer</a></li>
-                                        <li><a href="#">Tissue Master</a></li>
-                                        <li><a href="#">GLH General Laboratory</a></li>
-                                        <li><a href="#">Mixer</a></li>
-                                        <li><a href="#">Micro</a></li>
-                                        <li><a href="#">THQ Digital Tissue</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">TH Tissue Homogenizer</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Tissue Master</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">GLH General Laboratory</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Mixer</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Micro</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">THQ Digital Tissue</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header"><a href="">Sonicators</a></li>
-                                        <li><a href="#">Ruptor 4000 Ultrasonic Homogenizer</a></li>
-                                        <li><a href="#">Sonic Ruptor 400 Homogenizer</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Ruptor 4000 Ultrasonic Homogenizer</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Sonic Ruptor 400 Homogenizer</a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header"><a href="">Automated Homogenizers</a></li>
-                                        <li><a href="#">Prep Multi-Sample Homogenizer</a></li>
-                                        <li><a href="#">Prep 96 Homogenizer</a></li>
-                                        <li><a href="#">LH 96 Automated Homogenizer Workstation</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Prep Multi-Sample Homogenizer</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Prep 96 Homogenizer</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">LH 96 Automated Homogenizer Workstation</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">Promotions and Demos</li>
-                                        <li><a href="#">Promotion Center</a></li>
-                                        <li><a href="#">Demo-Program</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Promotion Center</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Demo-Program</a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
@@ -529,8 +529,8 @@
                                         </li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">Extraction Kits</li>
-                                        <li><a href="#">DNA Purification Kits</a></li>
-                                        <li><a href="#">RNA Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">DNA Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">RNA Purification Kits</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -541,39 +541,39 @@
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">DNA Kits</li>
-                                        <li><a href="#">DNA Tissue Purification Kits</a></li>
-                                        <li><a href="#">DNA Yeast Purification Kits</a></li>
-                                        <li><a href="#">DNA Bacterial Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">DNA Tissue Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">DNA Yeast Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">DNA Bacterial Purification Kits</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">RNA Kits</li>
-                                        <li><a href="#">RNA Tissue Purification Kits</a></li>
-                                        <li><a href="#">RNA Yeast Purification Kits</a></li>
-                                        <li><a href="#">RNA Bacterial Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">RNA Tissue Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">RNA Yeast Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">RNA Bacterial Purification Kits</a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">Tubes</li>
-                                        <li><a href="#">Bulk Tubes</a></li>
-                                        <li><a href="#">Pre-Filled Bead Tubes</a></li>
-                                        <li><a href="#">Sealed Glass Tubes</a></li>
-                                        <li><a href="#">Sealed Plastic Tubes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bulk Tubes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Pre-Filled Bead Tubes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Sealed Glass Tubes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Sealed Plastic Tubes</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">Omni Tips</li>
-                                        <li><a href="#">OmniTip<sup>&#174;</sup> Hybrid Probes</a></li>
-                                        <li><a href="#">Hard Tissue OmniTip<sup>&#174;</sup></a></li>
-                                        <li><a href="#">Soft Tissue OmniTip<sup>&#174;</sup></a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">OmniTip<sup>&#174;</sup> Hybrid Probes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Hard Tissue OmniTip<sup>&#174;</sup></a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Soft Tissue OmniTip<sup>&#174;</sup></a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">Beads</li>
-                                        <li><a href="#">Bulk Beads</a></li>
-                                        <li><a href="#">Metal Beads</a></li>
-                                        <li><a href="#">Stainless Steel Beads</a></li>
-                                        <li><a href="#">Ceramic Beads</a></li>
-                                        <li><a href="#">Garnet Beads</a></li>
-                                        <li><a href="#">Glass Beads</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bulk Beads</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Metal Beads</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Stainless Steel Beads</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Ceramic Beads</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Garnet Beads</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Glass Beads</a></li>
                                         
                                     </ul>
                                 </li>
@@ -606,41 +606,41 @@
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">Accessories By Product</li>
-                                        <li><a href="#">Bead Ruptors</a></li>
-                                        <li><a href="#">Rotor Stators</a></li>
-                                        <li><a href="#">Ultrasonic Homogenizers</a></li>
-                                        <li><a href="#">Automated Homogenizers</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bead Ruptors</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Rotor Stators</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Ultrasonic Homogenizers</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Automated Homogenizers</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">Omni Tips/Disposables</li>
-                                        <li><a href="#">OmniTip<sup>&#174;</sup> Hybrid Probes</a></li>
-                                        <li><a href="#">Hard Tissue OmniTip<sup>&#174;</sup></a></li>
-                                        <li><a href="#">Soft Tissue OmniTip<sup>&#174;</sup></a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">OmniTip<sup>&#174;</sup> Hybrid Probes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Hard Tissue OmniTip<sup>&#174;</sup></a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Soft Tissue OmniTip<sup>&#174;</sup></a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">Tubes/Beads</li>
-                                        <li><a href="#">Pre-Filled Bead Tubes</a></li>
-                                        <li><a href="#">Bulk Tubes</a></li>
-                                        <li><a href="#">Bulk Beads</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Pre-Filled Bead Tubes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bulk Tubes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Bulk Beads</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">Replacement Parts</li>
-                                        <li><a href="#">Generator Probes</a></li>
-                                        <li><a href="#">Sealed Chambers</a></li>
-                                        <li><a href="#">Motor</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Generator Probes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Sealed Chambers</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Motor</a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">Generator Probes</li>
-                                        <li><a href="#">THQ / Micro / Automated</a></li>
-                                        <li><a href="#">Th / GLH-850</a></li>
-                                        <li><a href="#">Mixer / Macro / Macro ES</a></li>
-                                        <li><a href="#">Tissue Master</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">THQ / Micro / Automated</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Th / GLH-850</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Mixer / Macro / Macro ES</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">Tissue Master</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">Extraction Kits</li>
-                                        <li><a href="#">DNA Purification Kits</a></li>
-                                        <li><a href="#">RNA Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">DNA Purification Kits</a></li>
+                                        <li><a href="<?php echo $baseURL ?>products-page.php">RNA Purification Kits</a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
@@ -672,18 +672,18 @@
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">Product Resources</li>
-                                        <li><a href="#">Product Manuals</a></li>
-                                        <li><a href="#">Product Brochures</a></li>
-                                        <li><a href="#">Repair &amp; Installation Guides</a></li>
-                                        <li><a href="#">Corporate Files</a></li>
-                                        <li><a href="#">Application Notes</a></li>
+                                        <li><a href="<?php echo $baseURL ?>product-manuals.php">Product Manuals</a></li>
+                                        <li><a href="<?php echo $baseURL ?>product-brochures.php">Product Brochures</a></li>
+                                        <li><a href="<?php echo $baseURL ?>repair-installation-guides.php">Repair &amp; Installation Guides</a></li>
+                                        <li><a href="<?php echo $baseURL ?>corporate-files.php">Corporate Files</a></li>
+                                        <li><a href="<?php echo $baseURL ?>application-notes.php">Application Notes</a></li>
                                     </ul>
                                 </li>
                                 <li class="col-xs-12 col-sm-12 col-md-3">
                                     <ul>
                                         <li class="dropdown-header">Videos</li>
-                                        <li><a href="#">Product Videos</a></li>
-                                        <li><a href="#">How-To Videos</a></li>
+                                        <li><a href="<?php echo $baseURL ?>video-page.php">Product Videos</a></li>
+                                        <li><a href="<?php echo $baseURL ?>video-page.php">How-To Videos</a></li>
                                         <li class="divider"></li>
                                         <li class="dropdown-header">Other Resources</li>
                                         <li><a href="#">Promotions | Deals</a></li>

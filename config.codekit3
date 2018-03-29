@@ -7,8 +7,15 @@
 		"uuidString": "FB6A3638-CB68-425D-A9D8-9BDA3F558121"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26330",
 "files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/about-us.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -286,6 +293,126 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/Banners\/new\/Bioanalysis-Banner.jpg": {
+		"ft": 16384,
+		"iS": 77342,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Bioanalysis-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/CannabisTesting-Banner.jpg": {
+		"ft": 16384,
+		"iS": 75744,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/CannabisTesting-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/drugDevelopment-banner.jpg": {
+		"ft": 16384,
+		"iS": 75930,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/drugDevelopment-banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Environmental-Banner.jpg": {
+		"ft": 16384,
+		"iS": 101589,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Environmental-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Food-Banner.jpg": {
+		"ft": 16384,
+		"iS": 110548,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Food-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/FoodSafetyQuality-Banner.jpg": {
+		"ft": 16384,
+		"iS": 67646,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/FoodSafetyQuality-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Forensic-Toxicology-Banner.jpg": {
+		"ft": 16384,
+		"iS": 85503,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Forensic-Toxicology-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Forensics-Banner.jpg": {
+		"ft": 16384,
+		"iS": 65674,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Forensics-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Genomics-Banner.jpg": {
+		"ft": 16384,
+		"iS": 57498,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Genomics-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/GMO-Banner.jpg": {
+		"ft": 16384,
+		"iS": 76635,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/GMO-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Industries-Banner.jpg": {
+		"ft": 16384,
+		"iS": 65608,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Industries-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Method-Development-Banner.jpg": {
+		"ft": 16384,
+		"iS": 65112,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Method-Development-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/Banners\/new\/NEW-Category-Banner-WIDE.jpg": {
 		"ft": 16384,
 		"iS": 59013,
@@ -321,6 +448,56 @@
 		"iS": 72288,
 		"oA": 0,
 		"oAP": "\/assets\/images\/Banners\/new\/NEW-HOME-BANNER-VortexMixer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Pesticides-Banner.jpg": {
+		"ft": 16384,
+		"iS": 95340,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Pesticides-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Pharmaceutical-LifeScience-Banner.jpg": {
+		"ft": 16384,
+		"iS": 80187,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Pharmaceutical-LifeScience-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Proteomics-Banner.jpg": {
+		"ft": 16384,
+		"iS": 68363,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Proteomics-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/Soil-Banner.jpg": {
+		"ft": 16384,
+		"iS": 46263,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/Soil-Banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/Banners\/new\/WasteWater-Banner.jpg": {
+		"ft": 16384,
+		"iS": 94484,
+		"oA": 0,
+		"oAP": "\/assets\/images\/Banners\/new\/WasteWater-Banner.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -563,6 +740,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/icons\/cannabis.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/cannabis.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
 	"\/assets\/images\/icons\/cart.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -595,6 +782,76 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/icons\/environmental.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/environmental.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"\/assets\/images\/icons\/filter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/filter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"\/assets\/images\/icons\/food.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/food.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"\/assets\/images\/icons\/forensics.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/forensics.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"\/assets\/images\/icons\/pharmaceutical.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/pharmaceutical.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"\/assets\/images\/icons\/pharmaceutical1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/pharmaceutical1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"\/assets\/images\/icons\/playbutton.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/playbutton.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
 	"\/assets\/images\/icons\/quote.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -604,6 +861,420 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 1
+		},
+	"\/assets\/images\/icons\/spinner.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/icons\/spinner.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"\/assets\/images\/industries\/application-images\/apple-skin.jpg": {
+		"ft": 16384,
+		"iS": 14499,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/apple-skin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/bone.jpg": {
+		"ft": 16384,
+		"iS": 7871,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/bone.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/bovine-kidney.jpg": {
+		"ft": 16384,
+		"iS": 13359,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/bovine-kidney.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/brain.jpg": {
+		"ft": 16384,
+		"iS": 18472,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/brain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/cheeses.jpg": {
+		"ft": 16384,
+		"iS": 13930,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/cheeses.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/dna.jpg": {
+		"ft": 16384,
+		"iS": 11490,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/dna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/eggs.jpg": {
+		"ft": 16384,
+		"iS": 16140,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/eggs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/fruit.jpg": {
+		"ft": 16384,
+		"iS": 13872,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/fruit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/fungus.jpg": {
+		"ft": 16384,
+		"iS": 14980,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/fungus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/lettuce.jpg": {
+		"ft": 16384,
+		"iS": 15500,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/lettuce.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/mouse.jpg": {
+		"ft": 16384,
+		"iS": 7437,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/mouse.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/mushroom-cap.jpg": {
+		"ft": 16384,
+		"iS": 15300,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/mushroom-cap.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/mushrroms.jpg": {
+		"ft": 16384,
+		"iS": 19551,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/mushrroms.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/neurons.jpg": {
+		"ft": 16384,
+		"iS": 11649,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/neurons.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/pipet-blood.jpg": {
+		"ft": 16384,
+		"iS": 6846,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/pipet-blood.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/plasmodiophora-brassicae.jpg": {
+		"ft": 16384,
+		"iS": 15758,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/plasmodiophora-brassicae.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/raw-meat.jpg": {
+		"ft": 16384,
+		"iS": 9466,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/raw-meat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/ricin-flower.jpg": {
+		"ft": 16384,
+		"iS": 16229,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/ricin-flower.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/rna.jpg": {
+		"ft": 16384,
+		"iS": 11198,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/rna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/skin-cells.jpg": {
+		"ft": 16384,
+		"iS": 19435,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/skin-cells.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/skin.jpg": {
+		"ft": 16384,
+		"iS": 9409,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/skin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/soil-samples.jpg": {
+		"ft": 16384,
+		"iS": 16217,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/soil-samples.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/soil.jpg": {
+		"ft": 16384,
+		"iS": 19621,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/soil.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/spices.jpg": {
+		"ft": 16384,
+		"iS": 15068,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/spices.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/spraying-pesticide.jpg": {
+		"ft": 16384,
+		"iS": 18302,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/spraying-pesticide.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/tissue-cells.jpg": {
+		"ft": 16384,
+		"iS": 14991,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/tissue-cells.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/application-images\/vegetables.jpg": {
+		"ft": 16384,
+		"iS": 16152,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/application-images\/vegetables.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/bioanalysis.jpg": {
+		"ft": 16384,
+		"iS": 15082,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/bioanalysis.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/food-safety-quality.jpg": {
+		"ft": 16384,
+		"iS": 10645,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/food-safety-quality.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/genomics.jpg": {
+		"ft": 16384,
+		"iS": 13341,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/genomics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/gmo.jpg": {
+		"ft": 16384,
+		"iS": 10658,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/gmo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/method-development.jpg": {
+		"ft": 16384,
+		"iS": 12938,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/method-development.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/pesticides.jpg": {
+		"ft": 16384,
+		"iS": 13100,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/pesticides.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/proteomics.jpg": {
+		"ft": 16384,
+		"iS": 16454,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/proteomics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/soil.jpg": {
+		"ft": 16384,
+		"iS": 7721,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/soil.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/ind-cat-images\/waste-water.jpg": {
+		"ft": 16384,
+		"iS": 14108,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/ind-cat-images\/waste-water.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/related-products\/beadRuptorElite.png": {
+		"ft": 32768,
+		"iS": 14477,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/related-products\/beadRuptorElite.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/related-products\/lh96.png": {
+		"ft": 32768,
+		"iS": 15281,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/related-products\/lh96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/related-products\/samplePrep96.png": {
+		"ft": 32768,
+		"iS": 14818,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/related-products\/samplePrep96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/industries\/related-products\/tissueDnaKit.png": {
+		"ft": 32768,
+		"iS": 40517,
+		"oA": 0,
+		"oAP": "\/assets\/images\/industries\/related-products\/tissueDnaKit.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/images\/iso.png": {
 		"ft": 32768,
@@ -975,6 +1646,186 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/thumbs\/videos\/autoemuladjuvants.jpg": {
+		"ft": 16384,
+		"iS": 167326,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/autoemuladjuvants.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/bead-ruptor-12.jpg": {
+		"ft": 16384,
+		"iS": 17998,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/bead-ruptor-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/bead-ruptor-4.jpg": {
+		"ft": 16384,
+		"iS": 17464,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/bead-ruptor-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/bead-ruptor-96.jpg": {
+		"ft": 16384,
+		"iS": 18470,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/bead-ruptor-96.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/bead-ruptor-elite.jpg": {
+		"ft": 16384,
+		"iS": 18771,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/bead-ruptor-elite.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/changing-motor-brushes.jpg": {
+		"ft": 16384,
+		"iS": 15793,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/changing-motor-brushes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/changing-tube-carriage.jpg": {
+		"ft": 16384,
+		"iS": 38762,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/changing-tube-carriage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/cleaning-generator-probes.jpg": {
+		"ft": 16384,
+		"iS": 19919,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/cleaning-generator-probes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/cryobonemillsampleing.jpg": {
+		"ft": 16384,
+		"iS": 122325,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/cryobonemillsampleing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/horn-installation.jpg": {
+		"ft": 16384,
+		"iS": 52151,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/horn-installation.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/how-to-select-handheld-homogenizer.jpg": {
+		"ft": 16384,
+		"iS": 20400,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/how-to-select-handheld-homogenizer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/mixers.jpg": {
+		"ft": 16384,
+		"iS": 54627,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/mixers.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/omni-glh-850.jpg": {
+		"ft": 16384,
+		"iS": 16256,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/omni-glh-850.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/omni-lh-96.jpg": {
+		"ft": 16384,
+		"iS": 24747,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/omni-lh-96.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/omni-prep-6.jpg": {
+		"ft": 16384,
+		"iS": 26182,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/omni-prep-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/omni-prep-96.jpg": {
+		"ft": 16384,
+		"iS": 22028,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/omni-prep-96.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/rotor-stators.jpg": {
+		"ft": 16384,
+		"iS": 20474,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/rotor-stators.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/thumbs\/videos\/select-generator-probe.jpg": {
+		"ft": 16384,
+		"iS": 39068,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/select-generator-probe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/tile-white-banner.jpg": {
 		"ft": 16384,
 		"iS": 1055,
@@ -1094,13 +1945,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/assets\/slider.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/slider.psd",
-		"oF": 0
 		},
 	"\/bottom-footer.php": {
 		"cB": 0,
@@ -1525,46 +2369,28 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/Extras-do-not-upload\/cat-banner-template-small.psd": {
+	"\/environmental-cat-page.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Extras-do-not-upload\/cat-banner-template-small.psd",
+		"oAP": "\/environmental-cat-page.php",
 		"oF": 0
 		},
-	"\/Extras-do-not-upload\/cat-banner-template.psd": {
-		"cB": 0,
-		"ft": 8192,
+	"\/filter.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 2,
-		"oAP": "\/Extras-do-not-upload\/cat-banner-template.psd",
-		"oF": 0
+		"oAP": "\/filter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 1
 		},
-	"\/Extras-do-not-upload\/HomePage Promo Template.psd": {
+	"\/food-cat-page.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Extras-do-not-upload\/HomePage Promo Template.psd",
-		"oF": 0
-		},
-	"\/Extras-do-not-upload\/HomePage Video Still Template.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Extras-do-not-upload\/HomePage Video Still Template.psd",
-		"oF": 0
-		},
-	"\/Extras-do-not-upload\/image-placeholder.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Extras-do-not-upload\/image-placeholder.psd",
-		"oF": 0
-		},
-	"\/Extras-do-not-upload\/quote.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Extras-do-not-upload\/quote.ai",
+		"oAP": "\/food-cat-page.php",
 		"oF": 0
 		},
 	"\/footer.php": {
@@ -1595,11 +2421,88 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
+	"\/industries-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industries-page.php",
+		"oF": 0
+		},
+	"\/industry-drug-development.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-drug-development.php",
+		"oF": 0
+		},
+	"\/industry-food-safety-quality.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-food-safety-quality.php",
+		"oF": 0
+		},
+	"\/industry-genomics.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-genomics.php",
+		"oF": 0
+		},
+	"\/industry-gmo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-gmo.php",
+		"oF": 0
+		},
+	"\/industry-method-development.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-method-development.php",
+		"oF": 0
+		},
+	"\/industry-pesticides.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-pesticides.php",
+		"oF": 0
+		},
+	"\/industry-proteomics.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-proteomics.php",
+		"oF": 0
+		},
+	"\/industry-soil.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-soil.php",
+		"oF": 0
+		},
+	"\/industry-waste-water.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/industry-waste-water.php",
+		"oF": 0
+		},
 	"\/login-page.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/login-page.php",
+		"oF": 0
+		},
+	"\/pharmaceutical-cat-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pharmaceutical-cat-page.php",
 		"oF": 0
 		},
 	"\/product-brochures.php": {
@@ -1622,6 +2525,24 @@
 		"oA": 2,
 		"oAP": "\/products-page.php",
 		"oF": 0
+		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/repair-installation-guides.php": {
 		"cB": 0,
@@ -1743,6 +2664,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/css\/header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/industries-page.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/industries-page.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1910,6 +2844,13 @@
 		"oA": 2,
 		"oAP": "\/video-page.php",
 		"oF": 0
+		},
+	"\/video-page2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/video-page2.php",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -1928,6 +2869,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 1,
@@ -2491,6 +3433,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,

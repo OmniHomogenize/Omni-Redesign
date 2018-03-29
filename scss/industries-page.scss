@@ -1,0 +1,222 @@
+.industries-list {
+	position: relative;
+	overflow: hidden;
+	padding: 15px 0;
+	ul {
+		text-align: center;
+		width: 100%;
+		margin: 0 auto;
+        padding: 0;
+		li {
+			padding: 0 2%;
+			margin: 0 auto 20px;
+			list-style: none;
+			.wrapper {
+				position: relative;
+				display: block;
+				overflow: hidden;
+				border-radius: 5px;
+				border: 1px solid $shadow-color;
+				text-decoration: none;
+				cursor: pointer;
+				background-color: $white;
+				max-width: 300px;
+                margin: 0 auto;
+                padding-bottom: 10px;
+				-webkit-box-shadow: inset 0 -2px 0 rgba(255,255,255,0.7), 0 6px 20px $shadow-color;
+				box-shadow: inset 0 -2px 0 rgba(255,255,255,0.7), 0 6px 20px $shadow-color;
+				transition: all 300ms;
+				&:hover {
+					-webkit-box-shadow: none;
+					box-shadow: none;
+					transition: all 600ms;
+				}
+				h4 {
+					background-color: $dark-blue;
+					margin: 0 0 10px 0;
+					padding: 10px;
+					text-align: center;
+					color: $white;
+                }
+                p {
+                    margin: 10px 10px;
+                }
+				img {
+                    display: block;
+                    max-height: 70px;
+					margin: 20px auto;
+				}
+            }
+        }
+		@media (max-width: 750px){
+			width: 100%;
+		}
+	}
+}
+.industry-cat-description {
+	p {
+		font-size: 1em;
+		line-height: 1.5em;
+		&.bold {
+			font-size: 1.2em;
+			line-height: 1.7em;
+		}
+	}
+}
+.related-industry-fields, .related-products, .related-applications {
+	h3 {
+		font-size: 2em;
+		text-align: center;
+		font-family: $myriadpro_light;
+	}
+	.related-industry, .related-application {
+		margin: 20px auto;
+		.img-wrapper {
+			figure {
+				position: relative;
+				width: 260px;
+				height: 134px;
+				margin: 0 auto 0;
+				overflow: hidden;
+				&:before {
+					content: '';
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					background-color: $black;
+					opacity: 0;
+					z-index: 1;
+					transition: all 300ms ease-out;
+				}
+				&:hover {
+					&:before {
+						opacity: 0.6;
+					}
+					figcaption {
+						color: $white;
+					}
+					img {
+						transform: scale(1.4); 
+					}
+				}
+				img {
+					width: 100%;
+					height: auto;
+					transform: scale(1);
+					transition: all .2s ease-in-out;
+				}
+				figcaption {
+					position: absolute;
+					top: 50%;
+					left: 50%;
+					transform: translate(-50%, -50%);
+					font-size: 1.5em;
+					text-align:center;
+					z-index: 1;
+					font-family: $myriadpro_bold;
+					color: $dark-grey;
+					transition: color 300ms;
+				}
+			}
+			a.btn {
+				max-width: 260px;
+				display: block;
+				margin: 10px auto 0;
+			}
+		}
+	}
+	.related-product {
+		margin: 20px auto;
+		.img-wrapper {
+			position: relative;
+			background-color: $dark-blue;
+			overflow: hidden;
+			&:before {
+				position: absolute;
+				content: '';
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background: radial-gradient(circle, #4984bd, transparent);
+			}
+			&:hover {
+				.product-info {
+					top: 0;
+					opacity: 1;
+				}
+			}
+			figure {
+				position: relative;
+				cursor: pointer;
+				&:before {
+					display: none;
+				}
+				img {
+					width: 100%;
+					height: auto;
+				}
+			}
+		}
+		.product-info {
+			position: absolute;
+			top: 100%;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: $white;
+			text-align: center;
+			padding: 15px;
+			opacity: 0;
+			transition: all .2s ease-out;
+		}
+	}
+	.related-application {
+		.img-wrapper {
+			figure {
+				&:hover {
+					&:before {
+						opacity: 0.6;
+					}
+					figcaption {
+						opacity: 1;
+						color: $white;
+					}
+					img {
+						transform: scale(1.4); 
+					}
+				}
+				img {
+					width: 100%;
+					height: auto;
+					transform: scale(1);
+					transition: all .2s ease-in-out;
+				}
+				figcaption {
+					position: absolute;
+					top: 50%;
+					left: 50%;
+					width: 100%;
+					height: 100%;
+					opacity: 0;
+					transform: translate(-50%, -50%);
+					font-size: 1em;
+					text-align: left;
+					z-index: 1;
+					padding: 5px;
+					font-family: $myriadpro_regular;
+					color: $dark-grey;
+					transition: color opacity 300ms;
+				}
+			}
+			p {
+				margin-top: 10px;
+			}
+			a.btn {
+				width: 90%;
+			}
+		}
+	}
+}
