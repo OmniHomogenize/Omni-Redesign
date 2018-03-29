@@ -17,11 +17,58 @@ $(document).ready(function(){
 	    contactModuleBtn = $(".open-contact"),
 	    contactExpertBtn = $(".top-footer").find('button'),
 	    darkOverlay = $(".dark-overlay"),
-		sortByDropdown = $(".sort-by-dropdown");
-			
-	sortByDropdown.on('click', function(){
-		$(".sort-by-dropdown").find('span').toggleClass('hidden');
+		sortByDropdown = $(".sort-by-dropdown"),
+		videoFilter = $(".filter"),
+		dropDownPanel = $('.dropdown-panel'),
+		videoCatFlag = true;
+	
+	videoFilter.on('click', function(){
+		if(videoCatFlag){
+			buildDropDownList();
+		}
+		grabVideoCats();
+		$('.dropdown-panel').toggleClass('open');
 	});
+	$('.videos').find('.video').matchHeight();
+	
+	function buildDropDownList(){
+		var list = '';
+		for(var i=0;i<videoCategories.length;i++){
+			list += '<span>'+videoCategories[i]+'</span>';
+		}
+		dropDownPanel.append(list);
+		videoCatFlag = false;
+	}
+	
+	var videoCategories = grabVideoCats();
+	function grabVideoCats(){
+		var videoCats = [];
+		var videosArray = [];
+		$('.videos').children().each(function(index, element){
+			videosArray.push($(this));
+		});
+		videosArray.forEach(function(video) {
+			var cat = video.attr('data-category');
+			var ln = cat.split(',');
+			if (ln.length > 1) {
+				for (var i = 0; i < ln.length; i++) {
+					if (videoCats.indexOf(ln[i]) === -1) {
+						videoCats.push(ln[i]);
+					}
+
+				}
+			} else {
+				if (videoCats.indexOf(cat) === -1) {
+					videoCats.push(cat);
+				}
+			}
+		});
+		return videoCats;
+	}
+
+	console.log(videoCategories);
+	
+
 
 	$('.filter-tab').on('click', function () {
 		$('.filter-sidebar').toggleClass('open-filter');

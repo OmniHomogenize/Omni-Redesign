@@ -1560,6 +1560,12 @@ ul.header-icon-group {
     outline: none;
     color: #ffffff; }
 
+.btn-wide {
+  width: 75%; }
+
+.btn-full {
+  width: 100%; }
+
 .btn-solid, .btn-primary, .btn-darkblue {
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2); }
 
@@ -2928,43 +2934,126 @@ caption {
   max-width: 900px; }
 
 /* Global */
-.video-page .carousel-control.left,
-.video-page .carousel-control.right {
-  background: none;
-  width: 25px; }
+.video-page .video-filter {
+  margin: 20px 0;
+  border-bottom: 1px solid #78777a; }
+  .video-page .video-filter h4 {
+    font-size: 2em;
+    font-family: myriadpro_light; }
+  .video-page .video-filter h4, .video-page .video-filter button {
+    display: inline-block;
+    vertical-align: middle; }
+  .video-page .video-filter h4 + button {
+    position: relative;
+    margin-left: 10px;
+    padding-right: 40px; }
+    .video-page .video-filter h4 + button:after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      right: 5px;
+      width: 25px;
+      height: 15px;
+      z-index: 1;
+      background-image: url("../assets/images/icons/filter.svg");
+      transform: translateY(-50%); }
+  .video-page .video-filter .dropdown-panel {
+    position: relative;
+    background-color: #f5f5f5;
+    height: 0;
+    padding: 0 0;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    text-align: center;
+    transition: all 300ms ease-out; }
+    .video-page .video-filter .dropdown-panel span {
+      background-color: #78777a;
+      color: #ffffff;
+      padding: 5px;
+      border-radius: 4px;
+      margin: 5px;
+      font-size: 0.8em;
+      cursor: pointer;
+      display: inline-block;
+      opacity: 0; }
+    .video-page .video-filter .dropdown-panel.open {
+      max-height: 100%;
+      height: auto;
+      padding: 15px 0;
+      transition: height 0.3s 1s, padding 0.2s; }
+      .video-page .video-filter .dropdown-panel.open span {
+        opacity: 1;
+        transition: opacity 0.5s 0.2s; }
 
-.video-page .carousel-control.left {
-  left: 0; }
-
-.video-page .carousel-control.right {
-  right: 0; }
-
-.video-page .carousel-control {
-  width: auto !important;
-  color: #333333; }
-  .video-page .carousel-control a span {
-    color: #333333; }
-
-.video-page .videos {
-  margin-bottom: 40px; }
-  .video-page .videos h2 {
-    border-bottom: 1px solid #d4d3df;
-    padding-bottom: 5px; }
-  .video-page .videos .block-text {
-    color: #626262;
-    font-size: 14px;
-    margin-top: 27px;
-    padding: 15px 18px;
-    text-align: center; }
-    .video-page .videos .block-text img {
-      max-width: 80%;
-      margin: 0 auto; }
-  .video-page .videos .block {
-    display: block; }
-  .video-page .videos .rel {
-    position: relative; }
-  .video-page .videos .zmin {
-    z-index: 1; }
+.video-page ul.videos {
+  position: relative;
+  width: 100%;
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+  text-align: left; }
+  .video-page ul.videos .video {
+    margin-bottom: 2em; }
+    .video-page ul.videos .video .video-wrapper figure {
+      position: relative;
+      overflow: hidden;
+      box-shadow: inset 0 -2px 0 rgba(255, 255, 255, 0.7), 0 6px 20px #d4d3df;
+      transition: all 300ms ease-in; }
+      .video-page ul.videos .video .video-wrapper figure:before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.8);
+        border-radius: 4px;
+        opacity: 0;
+        cursor: pointer;
+        z-index: 1;
+        transition: opacity 300ms ease-out; }
+      .video-page ul.videos .video .video-wrapper figure img {
+        position: relative;
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+        transform: scale(1);
+        cursor: pointer;
+        transition: transform 300ms ease-out; }
+      .video-page ul.videos .video .video-wrapper figure .video-cta-buttons {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 95%;
+        text-align: center;
+        opacity: 0;
+        z-index: 2;
+        transform: translate(-50%, -50%);
+        transition: opacity 200ms ease-out; }
+        .video-page ul.videos .video .video-wrapper figure .video-cta-buttons button {
+          display: inline-block;
+          width: 45%;
+          transition: transform 300ms ease-out; }
+          .video-page ul.videos .video .video-wrapper figure .video-cta-buttons button:nth-child(1) {
+            transform: translateX(-100%); }
+          .video-page ul.videos .video .video-wrapper figure .video-cta-buttons button:nth-child(2) {
+            transform: translateX(100%); }
+      .video-page ul.videos .video .video-wrapper figure:hover {
+        box-shadow: none; }
+        .video-page ul.videos .video .video-wrapper figure:hover img {
+          transform: scale(1.3); }
+        .video-page ul.videos .video .video-wrapper figure:hover .video-cta-buttons {
+          opacity: 1;
+          transform: translate(-50%, -50%); }
+          .video-page ul.videos .video .video-wrapper figure:hover .video-cta-buttons button:nth-child(1) {
+            transform: translateX(0); }
+          .video-page ul.videos .video .video-wrapper figure:hover .video-cta-buttons button:nth-child(2) {
+            transform: translateX(0); }
+        .video-page ul.videos .video .video-wrapper figure:hover:before {
+          opacity: 1; }
+    .video-page ul.videos .video .video-wrapper h4.title {
+      font-size: 1.2em;
+      color: #19468d; }
 
 .image-wrapper {
   font-size: 14px !important; }
@@ -3269,3 +3358,184 @@ caption {
     background: linear-gradient(to right, #ffffff 0%, #f5f5f5 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5', GradientType=1);
     height: 200px; }
+
+.industries-list {
+  position: relative;
+  overflow: hidden;
+  padding: 15px 0; }
+  .industries-list ul {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0; }
+    .industries-list ul li {
+      padding: 0 2%;
+      margin: 0 auto 20px;
+      list-style: none; }
+      .industries-list ul li .wrapper {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        border-radius: 5px;
+        border: 1px solid #d4d3df;
+        text-decoration: none;
+        cursor: pointer;
+        background-color: #ffffff;
+        max-width: 300px;
+        margin: 0 auto;
+        padding-bottom: 10px;
+        -webkit-box-shadow: inset 0 -2px 0 rgba(255, 255, 255, 0.7), 0 6px 20px #d4d3df;
+        box-shadow: inset 0 -2px 0 rgba(255, 255, 255, 0.7), 0 6px 20px #d4d3df;
+        transition: all 300ms; }
+        .industries-list ul li .wrapper:hover {
+          -webkit-box-shadow: none;
+          box-shadow: none;
+          transition: all 600ms; }
+        .industries-list ul li .wrapper h4 {
+          background-color: #19468d;
+          margin: 0 0 10px 0;
+          padding: 10px;
+          text-align: center;
+          color: #ffffff; }
+        .industries-list ul li .wrapper p {
+          margin: 10px 10px; }
+        .industries-list ul li .wrapper img {
+          display: block;
+          max-height: 70px;
+          margin: 20px auto; }
+    @media (max-width: 750px) {
+      .industries-list ul {
+        width: 100%; } }
+
+.industry-cat-description p {
+  font-size: 1em;
+  line-height: 1.5em; }
+  .industry-cat-description p.bold {
+    font-size: 1.2em;
+    line-height: 1.7em; }
+
+.related-industry-fields h3, .related-products h3, .related-applications h3 {
+  font-size: 2em;
+  text-align: center;
+  font-family: myriadpro_light; }
+
+.related-industry-fields .related-industry, .related-industry-fields .related-application, .related-products .related-industry, .related-products .related-application, .related-applications .related-industry, .related-applications .related-application {
+  margin: 20px auto; }
+  .related-industry-fields .related-industry .img-wrapper figure, .related-industry-fields .related-application .img-wrapper figure, .related-products .related-industry .img-wrapper figure, .related-products .related-application .img-wrapper figure, .related-applications .related-industry .img-wrapper figure, .related-applications .related-application .img-wrapper figure {
+    position: relative;
+    width: 260px;
+    height: 134px;
+    margin: 0 auto 0;
+    overflow: hidden; }
+    .related-industry-fields .related-industry .img-wrapper figure:before, .related-industry-fields .related-application .img-wrapper figure:before, .related-products .related-industry .img-wrapper figure:before, .related-products .related-application .img-wrapper figure:before, .related-applications .related-industry .img-wrapper figure:before, .related-applications .related-application .img-wrapper figure:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #000000;
+      opacity: 0;
+      z-index: 1;
+      transition: all 300ms ease-out; }
+    .related-industry-fields .related-industry .img-wrapper figure:hover:before, .related-industry-fields .related-application .img-wrapper figure:hover:before, .related-products .related-industry .img-wrapper figure:hover:before, .related-products .related-application .img-wrapper figure:hover:before, .related-applications .related-industry .img-wrapper figure:hover:before, .related-applications .related-application .img-wrapper figure:hover:before {
+      opacity: 0.6; }
+    .related-industry-fields .related-industry .img-wrapper figure:hover figcaption, .related-industry-fields .related-application .img-wrapper figure:hover figcaption, .related-products .related-industry .img-wrapper figure:hover figcaption, .related-products .related-application .img-wrapper figure:hover figcaption, .related-applications .related-industry .img-wrapper figure:hover figcaption, .related-applications .related-application .img-wrapper figure:hover figcaption {
+      color: #ffffff; }
+    .related-industry-fields .related-industry .img-wrapper figure:hover img, .related-industry-fields .related-application .img-wrapper figure:hover img, .related-products .related-industry .img-wrapper figure:hover img, .related-products .related-application .img-wrapper figure:hover img, .related-applications .related-industry .img-wrapper figure:hover img, .related-applications .related-application .img-wrapper figure:hover img {
+      transform: scale(1.4); }
+    .related-industry-fields .related-industry .img-wrapper figure img, .related-industry-fields .related-application .img-wrapper figure img, .related-products .related-industry .img-wrapper figure img, .related-products .related-application .img-wrapper figure img, .related-applications .related-industry .img-wrapper figure img, .related-applications .related-application .img-wrapper figure img {
+      width: 100%;
+      height: auto;
+      transform: scale(1);
+      transition: all .2s ease-in-out; }
+    .related-industry-fields .related-industry .img-wrapper figure figcaption, .related-industry-fields .related-application .img-wrapper figure figcaption, .related-products .related-industry .img-wrapper figure figcaption, .related-products .related-application .img-wrapper figure figcaption, .related-applications .related-industry .img-wrapper figure figcaption, .related-applications .related-application .img-wrapper figure figcaption {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 1.5em;
+      text-align: center;
+      z-index: 1;
+      font-family: myriadpro_bold;
+      color: #333333;
+      transition: color 300ms; }
+  .related-industry-fields .related-industry .img-wrapper a.btn, .related-industry-fields .related-application .img-wrapper a.btn, .related-products .related-industry .img-wrapper a.btn, .related-products .related-application .img-wrapper a.btn, .related-applications .related-industry .img-wrapper a.btn, .related-applications .related-application .img-wrapper a.btn {
+    max-width: 260px;
+    display: block;
+    margin: 10px auto 0; }
+
+.related-industry-fields .related-product, .related-products .related-product, .related-applications .related-product {
+  margin: 20px auto; }
+  .related-industry-fields .related-product .img-wrapper, .related-products .related-product .img-wrapper, .related-applications .related-product .img-wrapper {
+    position: relative;
+    background-color: #19468d;
+    overflow: hidden; }
+    .related-industry-fields .related-product .img-wrapper:before, .related-products .related-product .img-wrapper:before, .related-applications .related-product .img-wrapper:before {
+      position: absolute;
+      content: '';
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle, #4984bd, transparent); }
+    .related-industry-fields .related-product .img-wrapper:hover .product-info, .related-products .related-product .img-wrapper:hover .product-info, .related-applications .related-product .img-wrapper:hover .product-info {
+      top: 0;
+      opacity: 1; }
+    .related-industry-fields .related-product .img-wrapper figure, .related-products .related-product .img-wrapper figure, .related-applications .related-product .img-wrapper figure {
+      position: relative;
+      cursor: pointer; }
+      .related-industry-fields .related-product .img-wrapper figure:before, .related-products .related-product .img-wrapper figure:before, .related-applications .related-product .img-wrapper figure:before {
+        display: none; }
+      .related-industry-fields .related-product .img-wrapper figure img, .related-products .related-product .img-wrapper figure img, .related-applications .related-product .img-wrapper figure img {
+        width: 100%;
+        height: auto; }
+  .related-industry-fields .related-product .product-info, .related-products .related-product .product-info, .related-applications .related-product .product-info {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    opacity: 0;
+    transition: all .2s ease-out; }
+
+.related-industry-fields .related-application .img-wrapper figure:hover:before, .related-products .related-application .img-wrapper figure:hover:before, .related-applications .related-application .img-wrapper figure:hover:before {
+  opacity: 0.6; }
+
+.related-industry-fields .related-application .img-wrapper figure:hover figcaption, .related-products .related-application .img-wrapper figure:hover figcaption, .related-applications .related-application .img-wrapper figure:hover figcaption {
+  opacity: 1;
+  color: #ffffff; }
+
+.related-industry-fields .related-application .img-wrapper figure:hover img, .related-products .related-application .img-wrapper figure:hover img, .related-applications .related-application .img-wrapper figure:hover img {
+  transform: scale(1.4); }
+
+.related-industry-fields .related-application .img-wrapper figure img, .related-products .related-application .img-wrapper figure img, .related-applications .related-application .img-wrapper figure img {
+  width: 100%;
+  height: auto;
+  transform: scale(1);
+  transition: all .2s ease-in-out; }
+
+.related-industry-fields .related-application .img-wrapper figure figcaption, .related-products .related-application .img-wrapper figure figcaption, .related-applications .related-application .img-wrapper figure figcaption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  font-size: 1em;
+  text-align: left;
+  z-index: 1;
+  padding: 5px;
+  font-family: myriadpro_regular;
+  color: #333333;
+  transition: color opacity 300ms; }
+
+.related-industry-fields .related-application .img-wrapper p, .related-products .related-application .img-wrapper p, .related-applications .related-application .img-wrapper p {
+  margin-top: 10px; }
+
+.related-industry-fields .related-application .img-wrapper a.btn, .related-products .related-application .img-wrapper a.btn, .related-applications .related-application .img-wrapper a.btn {
+  width: 90%; }
