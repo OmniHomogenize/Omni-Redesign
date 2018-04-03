@@ -1,0 +1,12 @@
+ $ git status
+    # Untracked files:
+<<<<<<< HEAD
+    **/*.psd
+    **/*.jpg
+    **/*.png
+    **/*.svg
+    **/*.jpeg
+=======
+    *.psd
+    *.scss
+>>>>>>> d8157481db2d435dce45a4e80347cd1af538809d
