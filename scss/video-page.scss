@@ -110,6 +110,13 @@
             }
         }
     }
+    .video-category {
+        display: block;
+        text-transform: uppercase;
+        &.hidden {
+            display: none;
+        }
+    }
     ul.videos {
         position: relative;
         width: 100%;

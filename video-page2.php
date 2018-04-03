@@ -38,6 +38,7 @@
                                     <div class="search-message"></div>
                                 </div>
                             </div>
+                            <h3 class="video-category hidden"></h3>
                             <ul class="videos">
                                 <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">

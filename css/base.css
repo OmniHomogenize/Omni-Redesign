@@ -3013,6 +3013,12 @@ caption {
     .video-page .video-filter .search-message span.danger {
       color: red; }
 
+.video-page .video-category {
+  display: block;
+  text-transform: uppercase; }
+  .video-page .video-category.hidden {
+    display: none; }
+
 .video-page ul.videos {
   position: relative;
   width: 100%;

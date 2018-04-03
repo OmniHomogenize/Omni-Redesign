@@ -104,6 +104,7 @@ $(document).ready(function () {
 			this.paramObj.vidSelected = searchParam;
 			history.pushState(null, null, '?video&' + this.paramObj.vidSelected);
 			this.videoUrlParams(this.paramObj.vidSelected);
+			e.currentTarget.children[0].children[0].value = '';
 		};
 		this.grabVideoCats = function(){
 			var videoCats = [];
@@ -163,7 +164,23 @@ $(document).ready(function () {
 					}
 				}
 			}
+			videoMessages[0].innerHTML = '';
+			this.showCatNames(catSelected);
 		};
+		this.showCatNames = function(cat){
+			this.paramObj.catString = cat;
+			cat = cat.replace('-', ' ');
+			console.log('CatString: ', cat);
+			if(cat !== 'show all'){
+				console.log($('.video-category'));
+				$('.video-category')[0].innerText = cat;
+				$('.video-category').removeClass('hidden');
+			}else {
+				$('.video-category').innerHTML = '';
+				$('.video-category').addClass('hidden');
+			}
+			
+		}
 	}
 	var startVideoPage = new InitVideo(window.location.search);
 	startVideoPage.init();
