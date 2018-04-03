@@ -3,8 +3,7 @@ $(document).ready(function () {
 	jQuery(document).on('click', '.mega-dropdown', function (e) {
 		e.stopPropagation();
 	});
-
-
+	
 	//MODULE FUNCTIONING
 	var quoteModule = $("#quote-module"),
 		cartModule = $("#shopping-cart-module"),
@@ -46,6 +45,46 @@ $(document).ready(function () {
 		history.pushState(null, null, '?video&' + searchParam);
 		initVideo();
 	});
+	$('.videos').find('.video').matchHeight();
+	
+	function buildDropDownList(){
+		var list = '';
+		for(var i=0;i<videoCategories.length;i++){
+			list += '<span>'+videoCategories[i]+'</span>';
+		}
+		dropDownPanel.append(list);
+		videoCatFlag = false;
+	}
+	
+	var videoCategories = grabVideoCats();
+	function grabVideoCats(){
+		var videoCats = [];
+		var videosArray = [];
+		$('.videos').children().each(function(index, element){
+			videosArray.push($(this));
+		});
+		videosArray.forEach(function(video) {
+			var cat = video.attr('data-category');
+			var ln = cat.split(',');
+			if (ln.length > 1) {
+				for (var i = 0; i < ln.length; i++) {
+					if (videoCats.indexOf(ln[i]) === -1) {
+						videoCats.push(ln[i]);
+					}
+
+				}
+			} else {
+				if (videoCats.indexOf(cat) === -1) {
+					videoCats.push(cat);
+				}
+			}
+		});
+		return videoCats;
+	}
+
+	console.log(videoCategories);
+	
+
 
 	function videoSelection(video) {
 		if (video !== null) {
