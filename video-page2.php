@@ -40,7 +40,7 @@
                             </div>
                             <h3 class="video-category hidden"></h3>
                             <ul class="videos">
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -58,7 +58,7 @@
                                         <p>The Bead Ruptor 96 is our most versatile homogenizer. The Bead Ruptor 96 is designed to support traditional milling, cryomilling, well plate and tube based bead homogenizing in a single, compact bench-top instrument.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -76,7 +76,7 @@
                                         <p>The Elite is designed for grinding, lysing, and homogenizing biological samples prior to molecular extraction.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -94,7 +94,7 @@
                                         <p>The Omni GLH 850 General Laboratory Homogenizer is a powerful 850 watt homogenizer that was specifically designed to disrupt a wide range of samples in volumes ranging from 200 ul to 5 L.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -112,7 +112,7 @@
                                         <p>The Omni Mixers is our most versatile homogenizer. The Omni Mixers is designed to support traditional milling, cryomilling, well plate and tube based bead homogenizing in a single, compact bench-top instrument.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -130,7 +130,7 @@
                                         <p>designed to process tough samples quickly and efficiently without compromising the sample. Faster homogenization times mean less chance of heat degradation to the sample.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -148,7 +148,7 @@
                                         <p>Built upon the innovative design and unsurpassed quality of Omni's Bead Ruptor family, the Bead Ruptor 4 provides powerful performance in a compact design.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -166,7 +166,7 @@
                                         <p>The most powerful and economical bead mill homogenizer available today. It is an ideal solution for a variety of applications that require grinding, lysing, and homogenization of biological samples prior to molecular extraction.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -184,7 +184,7 @@
                                         <p>Supports simultaneous homogenization of up to six samples in a single process in sample tubes ranging from 1.5 mL to 50 mL.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -202,7 +202,7 @@
                                         <p>Supports automated homogenization of up to ninety six samples in a single batch in sample tubes ranging from 1.5 mL to 50 mL</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="product-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -220,7 +220,7 @@
                                         <p>Fully automated liquid handling and homogenizer workstation. The LH 96 has a modular design, small footprint and brushless motors for automated homogenizing.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video, application" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos, application-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T3M13S">
                                         <meta itemprop="uploadDate" content="03/29/2018">
@@ -231,14 +231,14 @@
                                             <img src="assets/images/thumbs/videos/cryo-milling-cannabis.jpg" alt="Cryo-Milling Cannabis &amp; Edibles - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
+                                                <button class="btn btn-outline btn-transparent btn-white">View Application</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="cryo milling cannabis edibles">Cryo-Milling Cannabis &amp; Edibles</h4>
                                         <p>Cryo-milling with the Bead Ruptor 96 represents a new standard of consistency and efficiency in cannabis sample preparation, offering a quick and cost-effective solution to meet the needs of a rapidly growing industry.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video, application" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos, application-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -249,14 +249,14 @@
                                             <img src="assets/images/thumbs/videos/autoemuladjuvants.jpg" alt="Automated Emulsification of Adjuvants and Antigens - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
+                                                <button class="btn btn-outline btn-transparent btn-white">View Application</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="automated emulsification of adjuvants and antigens">Automated Emulsification of Adjuvants and Antigens</h4>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eius magni cum aliquid tempore, quod, iure! Harum deserunt iure accusamus saepe ducimus, voluptas, soluta cumque expedita ut beatae enim voluptatum!</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video, application" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos, application-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -267,14 +267,14 @@
                                             <img src="assets/images/thumbs/videos/cryobonemillsampleing.jpg" alt="Cryo Milling Bone Samples - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
+                                                <button class="btn btn-outline btn-transparent btn-white">View Application</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="cryo milling bone samples">Cryo Milling Bone Samples</h4>
                                         <p>DNA was extracted from 6-year-old ancient cow bone to detect nuclear and mitochondrial markers.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video, selecting-accessories" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos, selecting-accessories" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -285,14 +285,13 @@
                                             <img src="assets/images/thumbs/videos/select-generator-probe.jpg" alt="How to best select a generator probe - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="how to best select a generator probe">How to best select a generator probe</h4>
                                         <p>How to best select a generator probe for your homogenizer.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video, selecting-accessories" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos, selecting-accessories" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -303,14 +302,13 @@
                                             <img src="assets/images/thumbs/videos/how-to-select-handheld-homogenizer.jpg" alt="How to select a handheld homogenizer - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="how to best select a handheld homogenizer">How to select a handheld homogenizer.</h4>
                                         <p>How to best select a handheld homogenizer.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -321,14 +319,13 @@
                                             <img src="assets/images/thumbs/videos/changing-tube-carriage.jpg" alt="Omni tube loading and unloading instructinoal video - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="omni tube loading and unloading">Omni tube loading and unloading</h4>
                                         <p>An instructional video on how to best load and unload tubes from Bead Mill homogenizers</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -339,14 +336,13 @@
                                             <img src="assets/images/thumbs/videos/changing-motor-brushes.jpg" alt="HHow to best change motor brushes on the Omni Tissue Homogenizer - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="how to best change motor brushes on the omni tissue homogenizer">How to best change motor brushes on the Omni Tissue Homogenizer</h4>
                                         <p>Instructional video on how to best change motor brushes on the Omni Tissue Homogenizer.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -357,14 +353,13 @@
                                             <img src="assets/images/thumbs/videos/cleaning-generator-probes.jpg" alt="How to best clean Omni generator probes - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="how to best clean omni generator probes">How to best clean Omni generator probes.</h4>
                                         <p>Instructional video on how to best best clean Omni Generator Probes.</p>
                                     </div>
                                 </li>
-                                <li class="video" data-category="instructional-video" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+                                <li class="video" data-category="instructional-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
@@ -375,7 +370,6 @@
                                             <img src="assets/images/thumbs/videos/horn-installation.jpg" alt="Demonstation on how to install Ultrasonic horn - instructinoal video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
-                                                <button class="btn btn-outline btn-transparent btn-white">View Product</button>
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="ultrasonic horn installation">Ultrasonic Horn Installation</h4>

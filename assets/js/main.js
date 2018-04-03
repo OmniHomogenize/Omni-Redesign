@@ -19,7 +19,8 @@ $(document).ready(function () {
 		darkOverlay = $(".dark-overlay"),
 		videoFilter = $(".filter"),
 		dropDownPanel = $('.dropdown-panel'),
-		videoMessages = $('.search-message');
+		videoMessages = $('.search-message'),
+		searchVideoBar = $('#search-video');
 		
 
 	function InitVideo(url) {
@@ -184,7 +185,6 @@ $(document).ready(function () {
 	}
 	var startVideoPage = new InitVideo(window.location.search);
 	startVideoPage.init();
-	var searchVideoBar = $('#search-video');
 	searchVideoBar.on('submit', function(e){
 		var self = e;
 		startVideoPage.search(self);
