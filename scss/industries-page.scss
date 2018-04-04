@@ -63,13 +63,13 @@
 		}
 	}
 }
-.related-industry-fields, .related-products, .related-applications {
+.related-industry-fields, .related-products, .related-applications, .related-videos {
 	h3 {
 		font-size: 2em;
 		text-align: center;
 		font-family: $myriadpro_light;
 	}
-	.related-industry, .related-application {
+	.related-industry, .related-application, .related-video {
 		margin: 20px auto;
 		.img-wrapper {
 			figure {
@@ -124,6 +124,47 @@
 				max-width: 260px;
 				display: block;
 				margin: 10px auto 0;
+			}
+		}
+	}
+	.related-video {
+		.img-wrapper {
+			figure {
+				width: 472px;
+				height: 271px;
+				// &:after {
+				// 	content: '';
+				// 	position: absolute;
+				// 	opacity: 0;
+				// 	top: 50%;
+				// 	left: 50%;
+				// 	transform: translate(-50%, -50%);
+				// 	width: 81.8px;
+				// 	height: 81.8px;
+				// 	background-image: url('../assets/images/icons/playbutton.svg');
+				// 	background-repeat: no-repeat;
+				// 	transition: opacity 300ms;
+				// 	z-index: 2;
+				// }
+				// &:hover {
+				// 	&:after {
+				// 		opacity: 1;
+				// 	}
+				// }
+				&:hover {
+					.video-cta-buttons {
+						opacity: 1;
+						transform: translate(-50%, -50%);
+						button {
+							&:nth-child(1){
+								transform: translateX(0);
+							}
+							&:nth-child(2){
+								transform: translateX(0);
+							}
+						}
+					}
+				}
 			}
 		}
 	}

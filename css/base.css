@@ -3034,69 +3034,79 @@ caption {
     margin: 0 1% 2em; }
     .video-page ul.videos .video.hidden {
       display: none; }
-    .video-page ul.videos .video .video-wrapper figure {
-      position: relative;
-      overflow: hidden;
-      box-shadow: inset 0 -2px 0 rgba(255, 255, 255, 0.7), 0 6px 20px #d4d3df;
-      transition: all 300ms ease-in;
-      border-radius: 4px; }
-      .video-page ul.videos .video .video-wrapper figure.selected {
-        border: 1px solid #19468d; }
-      .video-page ul.videos .video .video-wrapper figure:before {
-        content: '';
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        left: 0;
-        background-color: rgba(0, 0, 0, 0.8);
-        border-radius: 4px;
-        opacity: 0;
-        cursor: pointer;
-        z-index: 1;
-        transition: opacity 300ms ease-out; }
-      .video-page ul.videos .video .video-wrapper figure img {
-        position: relative;
-        width: 100%;
-        height: auto;
-        border-radius: 4px;
-        transform: scale(1);
-        cursor: pointer;
-        transition: transform 300ms ease-out; }
-      .video-page ul.videos .video .video-wrapper figure .video-cta-buttons {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        width: 95%;
-        text-align: center;
-        opacity: 0;
-        z-index: 2;
-        transform: translate(-50%, -50%);
-        transition: opacity 200ms ease-out; }
-        .video-page ul.videos .video .video-wrapper figure .video-cta-buttons button {
-          display: inline-block;
-          width: 45%;
-          transition: transform 300ms ease-out; }
-          .video-page ul.videos .video .video-wrapper figure .video-cta-buttons button:nth-child(1) {
-            transform: translateX(-100%); }
-          .video-page ul.videos .video .video-wrapper figure .video-cta-buttons button:nth-child(2) {
-            transform: translateX(100%); }
-      .video-page ul.videos .video .video-wrapper figure:hover {
-        box-shadow: none; }
-        .video-page ul.videos .video .video-wrapper figure:hover img {
-          transform: scale(1.3); }
-        .video-page ul.videos .video .video-wrapper figure:hover .video-cta-buttons {
-          opacity: 1;
-          transform: translate(-50%, -50%); }
-          .video-page ul.videos .video .video-wrapper figure:hover .video-cta-buttons button:nth-child(1) {
-            transform: translateX(0); }
-          .video-page ul.videos .video .video-wrapper figure:hover .video-cta-buttons button:nth-child(2) {
-            transform: translateX(0); }
-        .video-page ul.videos .video .video-wrapper figure:hover:before {
-          opacity: 1; }
-    .video-page ul.videos .video .video-wrapper h4.title {
-      font-size: 1.2em;
-      color: #19468d; }
+    @media only screen and (max-width: 1000px) {
+      .video-page ul.videos .video {
+        width: 47.7%; } }
+    @media only screen and (max-width: 600px) {
+      .video-page ul.videos .video {
+        width: 98%; } }
+
+.video-wrapper figure {
+  position: relative;
+  overflow: hidden;
+  box-shadow: inset 0 -2px 0 rgba(255, 255, 255, 0.7), 0 6px 20px #d4d3df;
+  transition: all 300ms ease-in;
+  border-radius: 5px; }
+  .video-wrapper figure.selected {
+    border: 2px solid #19468d; }
+  .video-wrapper figure:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 4px;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 1;
+    transition: opacity 300ms ease-out; }
+  .video-wrapper figure img {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    transform: scale(1);
+    cursor: pointer;
+    transition: transform 300ms ease-out; }
+  .video-wrapper figure:hover {
+    box-shadow: none; }
+    .video-wrapper figure:hover img {
+      transform: scale(1.3); }
+    .video-wrapper figure:hover .video-cta-buttons {
+      opacity: 1;
+      transform: translate(-50%, -50%); }
+      .video-wrapper figure:hover .video-cta-buttons button:nth-child(1) {
+        transform: translateX(0); }
+      .video-wrapper figure:hover .video-cta-buttons button:nth-child(2) {
+        transform: translateX(0); }
+    .video-wrapper figure:hover:before {
+      opacity: 1; }
+
+.video-wrapper h4.title {
+  font-size: 1.2em;
+  color: #19468d; }
+
+.video-cta-buttons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 95%;
+  text-align: center;
+  opacity: 0;
+  z-index: 2;
+  transform: translate(-50%, -50%);
+  transition: opacity 200ms ease-out; }
+  .video-cta-buttons button {
+    display: inline-block;
+    width: 45%;
+    transition: transform 300ms ease-out;
+    cursor: pointer; }
+    .video-cta-buttons button:nth-child(1) {
+      transform: translateX(-100%); }
+    .video-cta-buttons button:nth-child(2) {
+      transform: translateX(100%); }
 
 .image-wrapper {
   font-size: 14px !important; }
@@ -3457,20 +3467,20 @@ caption {
     font-size: 1.2em;
     line-height: 1.7em; }
 
-.related-industry-fields h3, .related-products h3, .related-applications h3 {
+.related-industry-fields h3, .related-products h3, .related-applications h3, .related-videos h3 {
   font-size: 2em;
   text-align: center;
   font-family: myriadpro_light; }
 
-.related-industry-fields .related-industry, .related-industry-fields .related-application, .related-products .related-industry, .related-products .related-application, .related-applications .related-industry, .related-applications .related-application {
+.related-industry-fields .related-industry, .related-industry-fields .related-application, .related-industry-fields .related-video, .related-products .related-industry, .related-products .related-application, .related-products .related-video, .related-applications .related-industry, .related-applications .related-application, .related-applications .related-video, .related-videos .related-industry, .related-videos .related-application, .related-videos .related-video {
   margin: 20px auto; }
-  .related-industry-fields .related-industry .img-wrapper figure, .related-industry-fields .related-application .img-wrapper figure, .related-products .related-industry .img-wrapper figure, .related-products .related-application .img-wrapper figure, .related-applications .related-industry .img-wrapper figure, .related-applications .related-application .img-wrapper figure {
+  .related-industry-fields .related-industry .img-wrapper figure, .related-industry-fields .related-application .img-wrapper figure, .related-industry-fields .related-video .img-wrapper figure, .related-products .related-industry .img-wrapper figure, .related-products .related-application .img-wrapper figure, .related-products .related-video .img-wrapper figure, .related-applications .related-industry .img-wrapper figure, .related-applications .related-application .img-wrapper figure, .related-applications .related-video .img-wrapper figure, .related-videos .related-industry .img-wrapper figure, .related-videos .related-application .img-wrapper figure, .related-videos .related-video .img-wrapper figure {
     position: relative;
     width: 260px;
     height: 134px;
     margin: 0 auto 0;
     overflow: hidden; }
-    .related-industry-fields .related-industry .img-wrapper figure:before, .related-industry-fields .related-application .img-wrapper figure:before, .related-products .related-industry .img-wrapper figure:before, .related-products .related-application .img-wrapper figure:before, .related-applications .related-industry .img-wrapper figure:before, .related-applications .related-application .img-wrapper figure:before {
+    .related-industry-fields .related-industry .img-wrapper figure:before, .related-industry-fields .related-application .img-wrapper figure:before, .related-industry-fields .related-video .img-wrapper figure:before, .related-products .related-industry .img-wrapper figure:before, .related-products .related-application .img-wrapper figure:before, .related-products .related-video .img-wrapper figure:before, .related-applications .related-industry .img-wrapper figure:before, .related-applications .related-application .img-wrapper figure:before, .related-applications .related-video .img-wrapper figure:before, .related-videos .related-industry .img-wrapper figure:before, .related-videos .related-application .img-wrapper figure:before, .related-videos .related-video .img-wrapper figure:before {
       content: '';
       position: absolute;
       top: 0;
@@ -3481,18 +3491,18 @@ caption {
       opacity: 0;
       z-index: 1;
       transition: all 300ms ease-out; }
-    .related-industry-fields .related-industry .img-wrapper figure:hover:before, .related-industry-fields .related-application .img-wrapper figure:hover:before, .related-products .related-industry .img-wrapper figure:hover:before, .related-products .related-application .img-wrapper figure:hover:before, .related-applications .related-industry .img-wrapper figure:hover:before, .related-applications .related-application .img-wrapper figure:hover:before {
+    .related-industry-fields .related-industry .img-wrapper figure:hover:before, .related-industry-fields .related-application .img-wrapper figure:hover:before, .related-industry-fields .related-video .img-wrapper figure:hover:before, .related-products .related-industry .img-wrapper figure:hover:before, .related-products .related-application .img-wrapper figure:hover:before, .related-products .related-video .img-wrapper figure:hover:before, .related-applications .related-industry .img-wrapper figure:hover:before, .related-applications .related-application .img-wrapper figure:hover:before, .related-applications .related-video .img-wrapper figure:hover:before, .related-videos .related-industry .img-wrapper figure:hover:before, .related-videos .related-application .img-wrapper figure:hover:before, .related-videos .related-video .img-wrapper figure:hover:before {
       opacity: 0.6; }
-    .related-industry-fields .related-industry .img-wrapper figure:hover figcaption, .related-industry-fields .related-application .img-wrapper figure:hover figcaption, .related-products .related-industry .img-wrapper figure:hover figcaption, .related-products .related-application .img-wrapper figure:hover figcaption, .related-applications .related-industry .img-wrapper figure:hover figcaption, .related-applications .related-application .img-wrapper figure:hover figcaption {
+    .related-industry-fields .related-industry .img-wrapper figure:hover figcaption, .related-industry-fields .related-application .img-wrapper figure:hover figcaption, .related-industry-fields .related-video .img-wrapper figure:hover figcaption, .related-products .related-industry .img-wrapper figure:hover figcaption, .related-products .related-application .img-wrapper figure:hover figcaption, .related-products .related-video .img-wrapper figure:hover figcaption, .related-applications .related-industry .img-wrapper figure:hover figcaption, .related-applications .related-application .img-wrapper figure:hover figcaption, .related-applications .related-video .img-wrapper figure:hover figcaption, .related-videos .related-industry .img-wrapper figure:hover figcaption, .related-videos .related-application .img-wrapper figure:hover figcaption, .related-videos .related-video .img-wrapper figure:hover figcaption {
       color: #ffffff; }
-    .related-industry-fields .related-industry .img-wrapper figure:hover img, .related-industry-fields .related-application .img-wrapper figure:hover img, .related-products .related-industry .img-wrapper figure:hover img, .related-products .related-application .img-wrapper figure:hover img, .related-applications .related-industry .img-wrapper figure:hover img, .related-applications .related-application .img-wrapper figure:hover img {
+    .related-industry-fields .related-industry .img-wrapper figure:hover img, .related-industry-fields .related-application .img-wrapper figure:hover img, .related-industry-fields .related-video .img-wrapper figure:hover img, .related-products .related-industry .img-wrapper figure:hover img, .related-products .related-application .img-wrapper figure:hover img, .related-products .related-video .img-wrapper figure:hover img, .related-applications .related-industry .img-wrapper figure:hover img, .related-applications .related-application .img-wrapper figure:hover img, .related-applications .related-video .img-wrapper figure:hover img, .related-videos .related-industry .img-wrapper figure:hover img, .related-videos .related-application .img-wrapper figure:hover img, .related-videos .related-video .img-wrapper figure:hover img {
       transform: scale(1.4); }
-    .related-industry-fields .related-industry .img-wrapper figure img, .related-industry-fields .related-application .img-wrapper figure img, .related-products .related-industry .img-wrapper figure img, .related-products .related-application .img-wrapper figure img, .related-applications .related-industry .img-wrapper figure img, .related-applications .related-application .img-wrapper figure img {
+    .related-industry-fields .related-industry .img-wrapper figure img, .related-industry-fields .related-application .img-wrapper figure img, .related-industry-fields .related-video .img-wrapper figure img, .related-products .related-industry .img-wrapper figure img, .related-products .related-application .img-wrapper figure img, .related-products .related-video .img-wrapper figure img, .related-applications .related-industry .img-wrapper figure img, .related-applications .related-application .img-wrapper figure img, .related-applications .related-video .img-wrapper figure img, .related-videos .related-industry .img-wrapper figure img, .related-videos .related-application .img-wrapper figure img, .related-videos .related-video .img-wrapper figure img {
       width: 100%;
       height: auto;
       transform: scale(1);
       transition: all .2s ease-in-out; }
-    .related-industry-fields .related-industry .img-wrapper figure figcaption, .related-industry-fields .related-application .img-wrapper figure figcaption, .related-products .related-industry .img-wrapper figure figcaption, .related-products .related-application .img-wrapper figure figcaption, .related-applications .related-industry .img-wrapper figure figcaption, .related-applications .related-application .img-wrapper figure figcaption {
+    .related-industry-fields .related-industry .img-wrapper figure figcaption, .related-industry-fields .related-application .img-wrapper figure figcaption, .related-industry-fields .related-video .img-wrapper figure figcaption, .related-products .related-industry .img-wrapper figure figcaption, .related-products .related-application .img-wrapper figure figcaption, .related-products .related-video .img-wrapper figure figcaption, .related-applications .related-industry .img-wrapper figure figcaption, .related-applications .related-application .img-wrapper figure figcaption, .related-applications .related-video .img-wrapper figure figcaption, .related-videos .related-industry .img-wrapper figure figcaption, .related-videos .related-application .img-wrapper figure figcaption, .related-videos .related-video .img-wrapper figure figcaption {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -3503,18 +3513,29 @@ caption {
       font-family: myriadpro_bold;
       color: #333333;
       transition: color 300ms; }
-  .related-industry-fields .related-industry .img-wrapper a.btn, .related-industry-fields .related-application .img-wrapper a.btn, .related-products .related-industry .img-wrapper a.btn, .related-products .related-application .img-wrapper a.btn, .related-applications .related-industry .img-wrapper a.btn, .related-applications .related-application .img-wrapper a.btn {
+  .related-industry-fields .related-industry .img-wrapper a.btn, .related-industry-fields .related-application .img-wrapper a.btn, .related-industry-fields .related-video .img-wrapper a.btn, .related-products .related-industry .img-wrapper a.btn, .related-products .related-application .img-wrapper a.btn, .related-products .related-video .img-wrapper a.btn, .related-applications .related-industry .img-wrapper a.btn, .related-applications .related-application .img-wrapper a.btn, .related-applications .related-video .img-wrapper a.btn, .related-videos .related-industry .img-wrapper a.btn, .related-videos .related-application .img-wrapper a.btn, .related-videos .related-video .img-wrapper a.btn {
     max-width: 260px;
     display: block;
     margin: 10px auto 0; }
 
-.related-industry-fields .related-product, .related-products .related-product, .related-applications .related-product {
+.related-industry-fields .related-video .img-wrapper figure, .related-products .related-video .img-wrapper figure, .related-applications .related-video .img-wrapper figure, .related-videos .related-video .img-wrapper figure {
+  width: 472px;
+  height: 271px; }
+  .related-industry-fields .related-video .img-wrapper figure:hover .video-cta-buttons, .related-products .related-video .img-wrapper figure:hover .video-cta-buttons, .related-applications .related-video .img-wrapper figure:hover .video-cta-buttons, .related-videos .related-video .img-wrapper figure:hover .video-cta-buttons {
+    opacity: 1;
+    transform: translate(-50%, -50%); }
+    .related-industry-fields .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(1), .related-products .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(1), .related-applications .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(1), .related-videos .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(1) {
+      transform: translateX(0); }
+    .related-industry-fields .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(2), .related-products .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(2), .related-applications .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(2), .related-videos .related-video .img-wrapper figure:hover .video-cta-buttons button:nth-child(2) {
+      transform: translateX(0); }
+
+.related-industry-fields .related-product, .related-products .related-product, .related-applications .related-product, .related-videos .related-product {
   margin: 20px auto; }
-  .related-industry-fields .related-product .img-wrapper, .related-products .related-product .img-wrapper, .related-applications .related-product .img-wrapper {
+  .related-industry-fields .related-product .img-wrapper, .related-products .related-product .img-wrapper, .related-applications .related-product .img-wrapper, .related-videos .related-product .img-wrapper {
     position: relative;
     background-color: #19468d;
     overflow: hidden; }
-    .related-industry-fields .related-product .img-wrapper:before, .related-products .related-product .img-wrapper:before, .related-applications .related-product .img-wrapper:before {
+    .related-industry-fields .related-product .img-wrapper:before, .related-products .related-product .img-wrapper:before, .related-applications .related-product .img-wrapper:before, .related-videos .related-product .img-wrapper:before {
       position: absolute;
       content: '';
       top: 0;
@@ -3522,18 +3543,18 @@ caption {
       width: 100%;
       height: 100%;
       background: radial-gradient(circle, #4984bd, transparent); }
-    .related-industry-fields .related-product .img-wrapper:hover .product-info, .related-products .related-product .img-wrapper:hover .product-info, .related-applications .related-product .img-wrapper:hover .product-info {
+    .related-industry-fields .related-product .img-wrapper:hover .product-info, .related-products .related-product .img-wrapper:hover .product-info, .related-applications .related-product .img-wrapper:hover .product-info, .related-videos .related-product .img-wrapper:hover .product-info {
       top: 0;
       opacity: 1; }
-    .related-industry-fields .related-product .img-wrapper figure, .related-products .related-product .img-wrapper figure, .related-applications .related-product .img-wrapper figure {
+    .related-industry-fields .related-product .img-wrapper figure, .related-products .related-product .img-wrapper figure, .related-applications .related-product .img-wrapper figure, .related-videos .related-product .img-wrapper figure {
       position: relative;
       cursor: pointer; }
-      .related-industry-fields .related-product .img-wrapper figure:before, .related-products .related-product .img-wrapper figure:before, .related-applications .related-product .img-wrapper figure:before {
+      .related-industry-fields .related-product .img-wrapper figure:before, .related-products .related-product .img-wrapper figure:before, .related-applications .related-product .img-wrapper figure:before, .related-videos .related-product .img-wrapper figure:before {
         display: none; }
-      .related-industry-fields .related-product .img-wrapper figure img, .related-products .related-product .img-wrapper figure img, .related-applications .related-product .img-wrapper figure img {
+      .related-industry-fields .related-product .img-wrapper figure img, .related-products .related-product .img-wrapper figure img, .related-applications .related-product .img-wrapper figure img, .related-videos .related-product .img-wrapper figure img {
         width: 100%;
         height: auto; }
-  .related-industry-fields .related-product .product-info, .related-products .related-product .product-info, .related-applications .related-product .product-info {
+  .related-industry-fields .related-product .product-info, .related-products .related-product .product-info, .related-applications .related-product .product-info, .related-videos .related-product .product-info {
     position: absolute;
     top: 100%;
     left: 0;
@@ -3545,23 +3566,23 @@ caption {
     opacity: 0;
     transition: all .2s ease-out; }
 
-.related-industry-fields .related-application .img-wrapper figure:hover:before, .related-products .related-application .img-wrapper figure:hover:before, .related-applications .related-application .img-wrapper figure:hover:before {
+.related-industry-fields .related-application .img-wrapper figure:hover:before, .related-products .related-application .img-wrapper figure:hover:before, .related-applications .related-application .img-wrapper figure:hover:before, .related-videos .related-application .img-wrapper figure:hover:before {
   opacity: 0.6; }
 
-.related-industry-fields .related-application .img-wrapper figure:hover figcaption, .related-products .related-application .img-wrapper figure:hover figcaption, .related-applications .related-application .img-wrapper figure:hover figcaption {
+.related-industry-fields .related-application .img-wrapper figure:hover figcaption, .related-products .related-application .img-wrapper figure:hover figcaption, .related-applications .related-application .img-wrapper figure:hover figcaption, .related-videos .related-application .img-wrapper figure:hover figcaption {
   opacity: 1;
   color: #ffffff; }
 
-.related-industry-fields .related-application .img-wrapper figure:hover img, .related-products .related-application .img-wrapper figure:hover img, .related-applications .related-application .img-wrapper figure:hover img {
+.related-industry-fields .related-application .img-wrapper figure:hover img, .related-products .related-application .img-wrapper figure:hover img, .related-applications .related-application .img-wrapper figure:hover img, .related-videos .related-application .img-wrapper figure:hover img {
   transform: scale(1.4); }
 
-.related-industry-fields .related-application .img-wrapper figure img, .related-products .related-application .img-wrapper figure img, .related-applications .related-application .img-wrapper figure img {
+.related-industry-fields .related-application .img-wrapper figure img, .related-products .related-application .img-wrapper figure img, .related-applications .related-application .img-wrapper figure img, .related-videos .related-application .img-wrapper figure img {
   width: 100%;
   height: auto;
   transform: scale(1);
   transition: all .2s ease-in-out; }
 
-.related-industry-fields .related-application .img-wrapper figure figcaption, .related-products .related-application .img-wrapper figure figcaption, .related-applications .related-application .img-wrapper figure figcaption {
+.related-industry-fields .related-application .img-wrapper figure figcaption, .related-products .related-application .img-wrapper figure figcaption, .related-applications .related-application .img-wrapper figure figcaption, .related-videos .related-application .img-wrapper figure figcaption {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -3577,8 +3598,8 @@ caption {
   color: #333333;
   transition: color opacity 300ms; }
 
-.related-industry-fields .related-application .img-wrapper p, .related-products .related-application .img-wrapper p, .related-applications .related-application .img-wrapper p {
+.related-industry-fields .related-application .img-wrapper p, .related-products .related-application .img-wrapper p, .related-applications .related-application .img-wrapper p, .related-videos .related-application .img-wrapper p {
   margin-top: 10px; }
 
-.related-industry-fields .related-application .img-wrapper a.btn, .related-products .related-application .img-wrapper a.btn, .related-applications .related-application .img-wrapper a.btn {
+.related-industry-fields .related-application .img-wrapper a.btn, .related-products .related-application .img-wrapper a.btn, .related-applications .related-application .img-wrapper a.btn, .related-videos .related-application .img-wrapper a.btn {
   width: 90%; }

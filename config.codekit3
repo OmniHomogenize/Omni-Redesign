@@ -850,7 +850,7 @@
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
-		"prP": 1
+		"prP": 0
 		},
 	"\/assets\/images\/icons\/quote.svg": {
 		"ft": 2097152,
@@ -1726,6 +1726,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/thumbs\/videos\/cryo-milling-cannabis-video.jpg": {
+		"ft": 16384,
+		"iS": 24046,
+		"oA": 0,
+		"oAP": "\/assets\/images\/thumbs\/videos\/cryo-milling-cannabis-video.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/thumbs\/videos\/cryo-milling-cannabis.jpg": {
 		"ft": 16384,
 		"iS": 103429,
@@ -2348,6 +2358,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/cannabis-cat-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/cannabis-cat-page.php",
+		"oF": 0
+		},
 	"\/category-page.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -2398,6 +2415,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/footer.php",
+		"oF": 0
+		},
+	"\/forensic-cat-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/forensic-cat-page.php",
 		"oF": 0
 		},
 	"\/head.php": {
@@ -2843,13 +2867,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/video-page.php",
-		"oF": 0
-		},
-	"\/video-page2.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/video-page2.php",
 		"oF": 0
 		}
 	},

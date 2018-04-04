@@ -9,7 +9,7 @@
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="<?php echo $baseURL ?>index.php">Home</a></li>
                         <li class="breadcrumb-item"><a href="<?php echo $baseURL ?>industries-page.php">Industries</a></li>
-                        <li class="breadcrumb-item">Pharmaceutical &amp; Life Science</li>
+                        <li class="breadcrumb-item">Forensics</li>
                     </ol>
                 </div>
             </section>
@@ -17,7 +17,7 @@
                 <div class="header-image">
                     <div class="image-wrapper static">
                         <div>
-                            <img src="assets/images/Banners/new/Pharmaceutical-LifeScience-Banner.jpg" alt="Pharmaceutical &amp; Life Science Industry Category Page">
+                            <img src="assets/images/Banners/new/Forensic-Toxicology-Banner.jpg" alt="Forensics Industry Category Page">
                         </div>
                     </div>
                 </div>
@@ -26,76 +26,78 @@
                     <div class="container">
                         <div class="industry-cat-description">
                             <div class="col-md-6">
-                                <p>Omni International’s high throughput sample dissociation devices are used by life science researchers for extraction of nucleic acids, proteins and small molecules from a broad range of sample types.</p> 
-                                <p class="bold">Our devices ensure high analyte yields, eliminate cross contamination and provide reproducible and rapid extraction from even the toughest samples. 
-                                <p>With options ranging from handheld rotor-stator homogenizers to high throughput bead mills, <strong>Omni homogenizers are ideal for diagnostic laboratories, CROs and academic research institutions</strong>.</p>
+                                <p class="bold">Forensic analyses often involve the extraction of analytes, including small molecules, drugs, heavy metals and nucleic acids from some of the world's toughest samples</P>
+                                <p>Bones, tissues and teeth are routinely prepared for nucleic acid extraction as these structures have proven useful for housing varying amounts of genomic and mitochondrial DNA even under postmortem conditions. Long after soft tissues have degraded both bone and teeth can be prepared using bead mill technology to harvest nucleic acids for sequencing or PCR based detection assays.</p>
                             </div>
                             <div class="col-md-6">
-                                <p class="bold">For pharmaceutical development, formulation testing or quality control, Omni International has produced robust large format rotor-stator mixers since this 1950’s.</p>
-                                <p>Our mixing and dispersion systems are scalable from 0.2 mL to 30 L and are compatible with a wide range of accessories including rotor-stator generator probes, sealed chambers and blade assemblies. </p>
+                                <p>Hair trace analysis has also been a significant forensic analysis tool for decades. Hair samples can be prepared on the Omni International Bead Ruptor bead mill for wet grinding, dry grinding or cryo-milling to extract small molecules such as illicit drugs, steroids and hormones.</p>
                             </div>
                         </div>
-                        <section class="related-industry-fields">
+                        
+                        <section class="related-applications">
                             <div class="row">
                                 <div class="col-xs-12">
-                                    <h3>RELATED INDUSTRY FIELDS</h3>
+                                    <h3>RELATED APPLICATIONS</h3>
                                 </div>
-                                <div class="col-md-3 related-industry">
+                                <div class="col-md-3 related-application">
                                     <div class="img-wrapper">
-                                        <a href="<?php echo $baseURL ?>industry-genomics.php">
+                                        <a href="#">
                                             <figure>
-                                                <img src="assets/images/industries/ind-cat-images/genomics.jpg" alt="Genomics industries category">
+                                                <img src="assets/images/industries/application-images/brain.jpg" alt="Application: An overlapping reading frame in the PRNP gene encodes a novel polypeptide distinct from the prion protein">
                                                 <figcaption>
-                                                    GENOMICS
+                                                    An overlapping reading frame in the PRNP gene encodes a novel polypeptide distinct from the prion protein
                                                 </figcaption>
                                             </figure>
                                         </a>
-                                        <a href="<?php echo $baseURL ?>industry-genomics.php" class="btn btn-solid btn-wide">DISCOVER</a>
-                                    </div>
-                                    
-                                </div>
-                                <div class="col-md-3 related-industry">
-                                    <div class="img-wrapper">
-                                        <a href="<?php echo $baseURL ?>industry-proteomics.php">
-                                            <figure>
-                                                <img src="assets/images/industries/ind-cat-images/proteomics.jpg" alt="Proteomics industries category">
-                                                <figcaption>
-                                                    PROTEOMICS
-                                                </figcaption>
-                                            </figure>
-                                        </a>
-                                        <a href="<?php echo $baseURL ?>industry-proteomics.php" class="btn btn-solid btn-wide">DISCOVER</a>
+                                        <p>RNA was extracted from human brain to be used for reverse transcription PCR for the alternative prion protein gene.</p>
+                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
                                     </div>
                                 </div>
-                                <div class="col-md-3 related-industry">
+                                <div class="col-md-3 related-application">
                                     <div class="img-wrapper">
-                                        <a href="<?php echo $baseURL ?>industry-drug-development.php">
+                                        <a href="#">
                                             <figure>
-                                                <img src="assets/images/industries/ind-cat-images/bioanalysis.jpg" alt="Drug Development industries category">
+                                                <img src="assets/images/industries/application-images/bone.jpg" alt="Application: Genetic Extraction and Analysisfrom Weathered 6-Year-Old Bos Taurus Bones through Bead Ruptor Homogenization">
                                                 <figcaption>
-                                                    DRUG DEVELOPMENT
+                                                    Genetic Extraction and Analysisfrom Weathered 6-Year-Old Bos Taurus Bones through Bead Ruptor Homogenization
                                                 </figcaption>
                                             </figure>
                                         </a>
-                                        <a href="<?php echo $baseURL ?>industry-drug-development.php" class="btn btn-solid btn-wide">DISCOVER</a>
+                                        <p>DNA was extracted from 6-year-old ancient cow bone to detect nuclear and mitochondrial markers.</p>
+                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
                                     </div>
                                 </div>
-                                <div class="col-md-3 related-industry">
+                                <div class="col-md-3 related-application">
                                     <div class="img-wrapper">
-                                        <a href="<?php echo $baseURL ?>industry-method-development.php">
+                                        <a href="#">
                                             <figure>
-                                                <img src="assets/images/industries/ind-cat-images/method-development.jpg" alt="Method-development industries category">
+                                                <img src="assets/images/industries/application-images/rna.jpg" alt="Application: MicroRNA-19b Expression in Human Biliary Atresia Specimens and Its Role in BA-Related Fibrosis">
                                                 <figcaption>
-                                                    METHOD DEVELOPMENT
+                                                    MicroRNA-19b Expression in Human Biliary Atresia Specimens and Its Role in BA-Related Fibrosis
                                                 </figcaption>
                                             </figure>
                                         </a>
-                                        <a href="<?php echo $baseURL ?>industry-method-development.php" class="btn btn-solid btn-wide">DISCOVER</a>
+                                        <p>RNA was isolated from infant liver tissue to analyze miR-19b gene expression.</p>
+                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 related-application">
+                                    <div class="img-wrapper">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="assets/images/industries/application-images/mushrroms.jpg" alt="Application: Loci on chromosomes 1A and 2A affect resistance to tan (yellow) spot in wheat populations not segregating for tsn1">
+                                                <figcaption>
+                                                    Loci on chromosomes 1A and 2A affect resistance to tan (yellow) spot in wheat populations not segregating for tsn1
+                                                </figcaption>
+                                            </figure>
+                                        </a>
+                                        <p>Spores were grown and harvested from homogenized mycelium to be used for phenotypic evaluation of tan spot on wheat from different parts of the world.</p>
+                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
                                     </div>
                                 </div>
                             </div>
                         </section>
-
+                        
                         <section class="related-products">
                             <div class="row">
                                 <div class="col-xs-12">

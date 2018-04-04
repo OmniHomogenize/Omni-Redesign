@@ -29,7 +29,7 @@
                                 <div class="dropdown-panel">
                                 </div>
                                 <div class="search-bar">
-                                    <form id="search-video" class="form-group hidden-xs hidden-sm">
+                                    <form id="search-video" class="form-group">
                                         <div class="input-group">
                                             <input type="text" class="form-control" placeholder="Search Videos by Keyword">
                                             <span class="input-group-addon search-go"><i class="glyphicon glyphicon-search"></i></span>
@@ -55,7 +55,7 @@
                                             </div>
                                         </figure>
                                         <h4 class="title" itemprop="name" name="bead ruptor 96">Bead Ruptor 96</h4>
-                                        <p>The Bead Ruptor 96 is our most versatile homogenizer. The Bead Ruptor 96 is designed to support traditional milling, cryomilling, well plate and tube based bead homogenizing in a single, compact bench-top instrument.</p>
+                                        <p>The Bead Ruptor 96 is our most versatile homogenizer. Designed to support traditional milling, cryomilling, well plate and tube based bead homogenizing in a single, compact bench-top instrument.</p>
                                     </div>
                                 </li>
                                 <li class="video" data-category="product-videos" data-created="2/14/2018" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">

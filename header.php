@@ -1,6 +1,7 @@
 <?php
-    $baseURL = 'http://www.nerdycoder.com/travis/Omni-Redesign/';
+    // $baseURL = 'http://www.nerdycoder.com/travis/Omni-Redesign/';
     $baseURLdev = 'http://localhost:8888/OMNI-INTERNATIONAL/Omni-Redesign/';
+    $baseURL = 'http://localhost:8888/OMNI-INTERNATIONAL/GitHub/Omni-Redesign/';
 ?>
 <div class="dark-overlay"></div>
 <div id="directory-module">
