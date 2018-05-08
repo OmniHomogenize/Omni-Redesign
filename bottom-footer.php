@@ -1,4 +1,6 @@
 <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+<script src="assets/js/location.js"></script>
 <script src="assets/js/main.js?v=1.1" type="text/javascript"></script>
 <script src="assets/js/accessories-finder.js?v=1.1" type="text/javascript"></script>
 <script src="bower_components/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>

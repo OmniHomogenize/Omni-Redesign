@@ -26,137 +26,131 @@
                     <div class="container">
                         <div class="product-list">
                             <ul class="list">
-                                <li class="col-md-4 col-sm-6">
-                                    <a href="" class="product">
-                                        <h4>Bead Ruptor 4</h4>
+                                <li>
+                                    <h4>Bead Ruptor 4</h4>
+                                    <a href="">
                                         <img src="assets/images/brelite.jpg" alt="">
-                                        <div class="product-info">
-                                            <span>SKU: 19-050A</span>
-                                            <span>Price: $4,995.00</span>
-                                            <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
-                                            <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
-                                        </div>
-                                        <div class="quick-info">
-                                            <h4>QUICK INFO</h4>
-                                            <p>The most powerful and scalable bead mill available</p>
-                                            <ul>
-                                                <li><strong>Power: </strong>0.8 - 8 m/s</li>
-                                                <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
-                                                <li><strong>Samples: </strong>1-96</li>
-                                            </ul>
-                                            <i class="glyphicon glyphicon-remove"></i>
-                                        </div>
                                     </a>
+                                    <div class="product-info">
+                                        <span>SKU: 19-050A</span>
+                                        <span>Price: $4,995.00</span>
+                                        <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
+                                        <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
+                                    </div>
+                                    <div class="quick-info">
+                                        <h4>QUICK INFO</h4>
+                                        <p>The most powerful and scalable bead mill available</p>
+                                        <ul>
+                                            <li><strong>Power: </strong>0.8 - 8 m/s</li>
+                                            <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
+                                            <li><strong>Samples: </strong>1-96</li>
+                                        </ul>
+                                        <i class="glyphicon glyphicon-remove"></i>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
-                                    <a href="" class="product">
-                                        <h4>Bead Ruptor 12</h4>
+                                <li>
+                                    <h4>Bead Ruptor 12</h4>
+                                    <a href="">
                                         <img src="assets/images/brelite.jpg" alt="">
-                                        <div class="product-info">
-                                            <span>SKU: 19-050A</span>
-                                            <span>Price: $4,995.00</span>
-                                            <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
-                                            <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
-                                        </div>
-                                        <div class="quick-info">
-                                            <h4>QUICK INFO</h4>
-                                            <p>The most powerful and scalable bead mill available</p>
-                                            <ul>
-                                                <li><strong>Power: </strong>0.8 - 8 m/s</li>
-                                                <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
-                                                <li><strong>Samples: </strong>1-96</li>
-                                            </ul>
-                                            <i class="glyphicon glyphicon-remove"></i>
-                                        </div>
                                     </a>
+                                    <div class="product-info">
+                                        <span>SKU: 19-050A</span>
+                                        <span>Price: $4,995.00</span>
+                                        <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
+                                        <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
+                                    </div>
+                                    <div class="quick-info">
+                                        <h4>QUICK INFO</h4>
+                                        <p>The most powerful and scalable bead mill available</p>
+                                        <ul>
+                                            <li><strong>Power: </strong>0.8 - 8 m/s</li>
+                                            <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
+                                            <li><strong>Samples: </strong>1-96</li>
+                                        </ul>
+                                        <i class="glyphicon glyphicon-remove"></i>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
-                                    <a href="" class="product">
-                                        <h4>Bead Ruptor Elite</h4>
+                                <li>
+                                    <h4>Bead Ruptor Elite</h4>
+                                    <a href="">
                                         <img src="assets/images/brelite.jpg" alt="">
-                                        <div class="product-info">
-                                            <span>SKU: 19-050A</span>
-                                            <span>Price: $4,995.00</span>
-                                            <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
-                                            <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
-                                        </div>
-                                        <div class="quick-info">
-                                            <h4>QUICK INFO</h4>
-                                            <p>The most powerful and scalable bead mill available</p>
-                                            <ul>
-                                                <li><strong>Power: </strong>0.8 - 8 m/s</li>
-                                                <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
-                                                <li><strong>Samples: </strong>1-96</li>
-                                            </ul>
-                                            <i class="glyphicon glyphicon-remove"></i>
-                                        </div>
                                     </a>
+                                    <div class="product-info">
+                                        <span>SKU: 19-050A</span>
+                                        <span>Price: $4,995.00</span>
+                                        <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
+                                        <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
+                                    </div>
+                                    <div class="quick-info">
+                                        <h4>QUICK INFO</h4>
+                                        <p>The most powerful and scalable bead mill available</p>
+                                        <ul>
+                                            <li><strong>Power: </strong>0.8 - 8 m/s</li>
+                                            <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
+                                            <li><strong>Samples: </strong>1-96</li>
+                                        </ul>
+                                        <i class="glyphicon glyphicon-remove"></i>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
-                                    <a href="" class="product">
-                                        <h4>Bead Ruptor 96</h4>
+                                <li>
+                                    <h4>Bead Ruptor 96</h4>
+                                    <a href="">
                                         <img src="assets/images/brelite.jpg" alt="">
-                                        <div class="product-info">
-                                            <span>SKU: 19-050A</span>
-                                            <span>Price: $4,995.00</span>
-                                            <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
-                                            <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
-                                        </div>
-                                        <div class="quick-info">
-                                            <h4>QUICK INFO</h4>
-                                            <p>The most powerful and scalable bead mill available</p>
-                                            <ul>
-                                                <li><strong>Power: </strong>0.8 - 8 m/s</li>
-                                                <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
-                                                <li><strong>Samples: </strong>1-96</li>
-                                            </ul>
-                                            <i class="glyphicon glyphicon-remove"></i>
-                                        </div>
                                     </a>
+                                    <div class="product-info">
+                                        <span>SKU: 19-050A</span>
+                                        <span>Price: $4,995.00</span>
+                                        <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
+                                        <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
+                                    </div>
+                                    <div class="quick-info">
+                                        <h4>QUICK INFO</h4>
+                                        <p>The most powerful and scalable bead mill available</p>
+                                        <ul>
+                                            <li><strong>Power: </strong>0.8 - 8 m/s</li>
+                                            <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
+                                            <li><strong>Samples: </strong>1-96</li>
+                                        </ul>
+                                        <i class="glyphicon glyphicon-remove"></i>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
-                                    <a href="" class="product">
-                                        <h4>Omni BR-Cryo Cooling Unit</h4>
+                                <li>
+                                    <h4>Omni BR-Cryo Cooling Unit</h4>
+                                    <a href="">
                                         <img src="assets/images/brelite.jpg" alt="">
-                                        <div class="product-info">
-                                            <span>SKU: 19-050A</span>
-                                            <span>Price: $4,995.00</span>
-                                            <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
-                                            <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
-                                        </div>
-                                        <div class="quick-info">
-                                            <h4>QUICK INFO</h4>
-                                            <p>The most powerful and scalable bead mill available</p>
-                                            <ul>
-                                                <li><strong>Power: </strong>0.8 - 8 m/s</li>
-                                                <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
-                                                <li><strong>Samples: </strong>1-96</li>
-                                            </ul>
-                                            <i class="glyphicon glyphicon-remove"></i>
-                                        </div>
                                     </a>
+                                    <div class="product-info">
+                                        <span>SKU: 19-050A</span>
+                                        <span>Price: $4,995.00</span>
+                                        <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
+                                        <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
+                                    </div>
+                                    <div class="quick-info">
+                                        <h4>QUICK INFO</h4>
+                                        <p>The most powerful and scalable bead mill available</p>
+                                        <ul>
+                                            <li><strong>Power: </strong>0.8 - 8 m/s</li>
+                                            <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
+                                            <li><strong>Samples: </strong>1-96</li>
+                                        </ul>
+                                        <i class="glyphicon glyphicon-remove"></i>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
-                                    <a href="" class="product">
-                                        <h4>Bead Ruptor 12</h4>
+                                <li>
+                                    <h4>Bead Ruptor 12</h4>
+                                    <a href="">
                                         <img src="assets/images/brelite.jpg" alt="">
-                                        <div class="product-info">
-                                            <span>SKU: 19-050A</span>
-                                            <span>Price: $4,995.00</span>
-                                            <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
-                                            <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
-                                        </div>
-                                        <div class="quick-info">
-                                            <h4>QUICK INFO</h4>
-                                            <p>The most powerful and scalable bead mill available</p>
-                                            <ul>
-                                                <li><strong>Power: </strong>0.8 - 8 m/s</li>
-                                                <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
-                                                <li><strong>Samples: </strong>1-96</li>
-                                            </ul>
-                                            <i class="glyphicon glyphicon-remove"></i>
-                                        </div>
                                     </a>
+                                    <div class="product-info">
+                                        <span>SKU: 19-050A</span>
+                                        <span>Price: $4,995.00</span>
+                                        <span href="#" class="btn btn-solid">VIEW PRODUCT</span>
+                                        <div class="qiBtn btn btn-solid" href="#" class="btn btn-solid">QUICK INFO</div>
+                                    </div>
+                                    <div class="quick-info">
+                                        <h4>QUICK INFO</h4>
+                                        <p>The most powerful and scalable bead mill available</p>
+                                        <ul>
+                                            <li><strong>Power: </strong>0.8 - 8 m/s</li>
+                                            <li><strong>Vol: </strong>0.25 mL - 50 mL</li>
+                                            <li><strong>Samples: </strong>1-96</li>
+                                        </ul>
+                                        <i class="glyphicon glyphicon-remove"></i>
                                 </li>
                             </ul>
                         </div>

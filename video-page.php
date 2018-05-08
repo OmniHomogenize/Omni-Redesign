@@ -44,13 +44,13 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/bead-ruptor-96.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/bead-ruptor-96.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-96.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-96.jpg">
                                         <meta itemprop="description" content="The Bead Ruptor 96 is our most versatile homogenizer. The Bead Ruptor 96 is designed to support traditional milling, cryomilling, well plate and tube based bead homogenizing in a single, compact bench-top instrument. The Bead Ruptor 96 is ideal for labs requiring high through bead mill processing with the capability to dissociated up to 384 samples per processing cycle. With the stainless steel jar accessories the Bead Ruptor 96 is capable of performing all milling applications, including dry grinding of grains, powder particle size reduction, dissociation of plastics, plants, seeds, paper products and drugs. In addition, with the cryogenic processing capabilities the Bead Ruptor 96 is ideal for cannabis processing, with the ability to rapidly dissociate cannabis flowers and edibles.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/bead-ruptor-96.jpg" alt="Bead Ruptor 96 - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-96.jpg" alt="Bead Ruptor 96 - Product Video">
                                             <div class="video-cta-buttons">
-                                                <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
+                                                <button class="btn btn-outline btn-transparent btn-white"><a href="https://www.youtube.com/embed/2CCRob9hlPY?enablejsapi=1&rel=0" class="various fancybox.iframe">Play Video</a></button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
                                             </div>
                                         </figure>
@@ -62,11 +62,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/bead-ruptor-elite.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/bead-ruptor-elite.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-elite.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-elite.jpg">
                                         <meta itemprop="description" content="The Elite is designed for grinding, lysing, and homogenizing biological samples prior to molecular extraction. Available with a wide range of accessories the Bead Ruptor 24 Elite enables processing of samples in volumes ranging from 0.5 mL to 50 mL. The optional Bead Ruptor Cryo Cooling Unit(19-8005) is designed to prevent the increase of sample temperature during the homogenization process.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/bead-ruptor-elite.jpg" alt="Bead Ruptor Elite - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-elite.jpg" alt="Bead Ruptor Elite - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -80,11 +80,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/omni-glh-850.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/omni-glh-850.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-glh-850.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-glh-850.jpg">
                                         <meta itemprop="description" content="The Omni GLH 850 General Laboratory Homogenizer is a powerful 850 watt homogenizer that was specifically designed to disrupt a wide range of samples in volumes ranging from 200 ul to 5 L. The GLH quickly and efficiently processes a wide variety of sample and the 850 watt motor is capable of processing even the toughest samples.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/omni-glh-850.jpg" alt="Omni GLH 850 - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-glh-850.jpg" alt="Omni GLH 850 - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -98,11 +98,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/mixers.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/mixers.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/mixers.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/mixers.jpg">
                                         <meta itemprop="description" content="The Omni Mixers is our most versatile homogenizer. The Omni Mixers is designed to support traditional milling, cryomilling, well plate and tube based bead homogenizing in a single, compact bench-top instrument.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/mixers.jpg" alt="Omni Mixers - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/mixers.jpg" alt="Omni Mixers - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -116,11 +116,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/rotor-stators.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/rotor-stators.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/rotor-stators.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/rotor-stators.jpg">
                                         <meta itemprop="description" content="designed to process tough samples quickly and efficiently without compromising the sample. Faster homogenization times mean less chance of heat degradation to the sample.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/rotor-stators.jpg" alt="Rotor Stators - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/rotor-stators.jpg" alt="Rotor Stators - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -134,11 +134,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/bead-ruptor-4.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/bead-ruptor-4.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-4.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-4.jpg">
                                         <meta itemprop="description" content="Built upon the innovative design and unsurpassed quality of Omni's Bead Ruptor family, the Bead Ruptor 4 provides powerful performance in a compact design.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/bead-ruptor-4.jpg" alt="Bead Ruptor 4 - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-4.jpg" alt="Bead Ruptor 4 - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -152,11 +152,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/bead-ruptor-12.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/bead-ruptor-12.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-12.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-12.jpg">
                                         <meta itemprop="description" content="The Bead Ruptor 12 is the most powerful and economical bead mill homogenizer available today. It is an ideal solution for a variety of applications that require grinding, lysing, and homogenization of biological samples prior to molecular extraction.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/bead-ruptor-12.jpg" alt="Bead Ruptor 12 - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/bead-ruptor-12.jpg" alt="Bead Ruptor 12 - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -170,11 +170,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/omni-prep-6.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/omni-prep-6.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-prep-6.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-prep-6.jpg">
                                         <meta itemprop="description" content="The innovative Omni Prep Multi-Sample Homogenizer supports simultaneous homogenization of up to six samples in a single process in sample tubes ranging from 1.5 mL to 50 mL.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/omni-prep-6.jpg" alt="Omni Prep Multi-Sample Homogenizer - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-prep-6.jpg" alt="Omni Prep Multi-Sample Homogenizer - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -188,11 +188,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/omni-prep-96.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/omni-prep-96.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-prep-96.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-prep-96.jpg">
                                         <meta itemprop="description" content="The unique Omni Prep 96 Multi-Sample Homogenizer supports automated homogenization of up to ninety six samples in a single batch in sample tubes ranging from 1.5 mL to 50 mL">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/omni-prep-96.jpg" alt="Omni Prep 96 Multi-Sample Homogenizer - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-prep-96.jpg" alt="Omni Prep 96 Multi-Sample Homogenizer - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -206,11 +206,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/omni-lh-96.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/omni-lh-96.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-lh-96.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-lh-96.jpg">
                                         <meta itemprop="description" content="The Omni LH 96 is a fully automated liquid handling and homogenizer workstation. The LH 96 has a modular design, small footprint and brushless motors for automated homogenizing.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/omni-lh-96.jpg" alt="LH 96 Automated Homogenizer Workstation - Product Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/omni-lh-96.jpg" alt="LH 96 Automated Homogenizer Workstation - Product Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Product</button>
@@ -224,11 +224,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T3M13S">
                                         <meta itemprop="uploadDate" content="03/29/2018">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/cryo-milling-cannabis.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/cryo-milling-cannabis.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cryo-milling-cannabis.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cryo-milling-cannabis.jpg">
                                         <meta itemprop="description" content="Cryo-milling with the Bead Ruptor 96 represents a new standard of consistency and efficiency in cannabis sample preparation, offering a quick and cost-effective solution to meet the needs of a rapidly growing industry.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/cryo-milling-cannabis.jpg" alt="Cryo-Milling Cannabis &amp; Edibles - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cryo-milling-cannabis.jpg" alt="Cryo-Milling Cannabis &amp; Edibles - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Application</button>
@@ -242,11 +242,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/autoemuladjuvants.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/autoemuladjuvants.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/autoemuladjuvants.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/autoemuladjuvants.jpg">
                                         <meta itemprop="description" content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eius magni cum aliquid tempore, quod, iure! Harum deserunt iure accusamus saepe ducimus, voluptas, soluta cumque expedita ut beatae enim voluptatum!">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/autoemuladjuvants.jpg" alt="Automated Emulsification of Adjuvants and Antigens - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/autoemuladjuvants.jpg" alt="Automated Emulsification of Adjuvants and Antigens - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Application</button>
@@ -260,11 +260,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/cryobonemillsampleing.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/cryobonemillsampleing.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cryobonemillsampleing.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cryobonemillsampleing.jpg">
                                         <meta itemprop="description" content="Application: Cryo Milling Bone Samples - DNA was extracted from 6-year-old ancient cow bone to detect nuclear and mitochondrial markers.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/cryobonemillsampleing.jpg" alt="Cryo Milling Bone Samples - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cryobonemillsampleing.jpg" alt="Cryo Milling Bone Samples - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                                 <button class="btn btn-outline btn-transparent btn-white">View Application</button>
@@ -278,11 +278,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/select-generator-probe.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/select-generator-probe.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/select-generator-probe.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/select-generator-probe.jpg">
                                         <meta itemprop="description" content="How to best select a generator probe for your homogenizer.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/select-generator-probe.jpg" alt="How to best select a generator probe - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/select-generator-probe.jpg" alt="How to best select a generator probe - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                             </div>
@@ -295,11 +295,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/how-to-select-handheld-homogenizer.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/how-to-select-handheld-homogenizer.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/how-to-select-handheld-homogenizer.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/how-to-select-handheld-homogenizer.jpg">
                                         <meta itemprop="description" content="How to best select a handheld homogenizer.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/how-to-select-handheld-homogenizer.jpg" alt="How to select a handheld homogenizer - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/how-to-select-handheld-homogenizer.jpg" alt="How to select a handheld homogenizer - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                             </div>
@@ -312,11 +312,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/changing-tube-carriage.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/changing-tube-carriage.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/changing-tube-carriage.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/changing-tube-carriage.jpg">
                                         <meta itemprop="description" content="Omni tube loading and unloading instructinoal video">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/changing-tube-carriage.jpg" alt="Omni tube loading and unloading instructinoal video - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/changing-tube-carriage.jpg" alt="Omni tube loading and unloading instructinoal video - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                             </div>
@@ -329,11 +329,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T2M31S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/changing-motor-brushes.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/changing-motor-brushes.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/changing-motor-brushes.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/changing-motor-brushes.jpg">
                                         <meta itemprop="description" content="How to best change motor brushes on the Omni Tissue Homogenizer.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/changing-motor-brushes.jpg" alt="HHow to best change motor brushes on the Omni Tissue Homogenizer - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/changing-motor-brushes.jpg" alt="HHow to best change motor brushes on the Omni Tissue Homogenizer - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                             </div>
@@ -346,11 +346,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M43S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/cleaning-generator-probes.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/cleaning-generator-probes.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cleaning-generator-probes.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cleaning-generator-probes.jpg">
                                         <meta itemprop="description" content="How to best clean Omni generator probes.">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/cleaning-generator-probes.jpg" alt="How to best clean Omni generator probes - Instructional Video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/cleaning-generator-probes.jpg" alt="How to best clean Omni generator probes - Instructional Video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                             </div>
@@ -363,11 +363,11 @@
                                     <div class="video-wrapper">
                                         <meta itemprop="duration" content="T1M22S">
                                         <meta itemprop="uploadDate" content="06/09/2017">
-                                        <meta itemprop="thumbnail" content="assets/images/thumbs/videos/horn-installation.jpg">
-                                        <meta itemprop="thumbnailUrl" content="assets/images/thumbs/videos/horn-installation.jpg">
+                                        <meta itemprop="thumbnail" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/horn-installation.jpg">
+                                        <meta itemprop="thumbnailUrl" content="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/horn-installation.jpg">
                                         <meta itemprop="description" content="Demonstation on how to install Ultrasonic horn - instructinoal video">
                                         <figure>
-                                            <img src="assets/images/thumbs/videos/horn-installation.jpg" alt="Demonstation on how to install Ultrasonic horn - instructinoal video">
+                                            <img src="http://www.nerdycoder.com/travis/Omni-Redesign/assets/images/thumbs/videos/horn-installation.jpg" alt="Demonstation on how to install Ultrasonic horn - instructinoal video">
                                             <div class="video-cta-buttons">
                                                 <button class="btn btn-outline btn-transparent btn-white">Play Video</button>
                                             </div>

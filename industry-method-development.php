@@ -36,63 +36,63 @@
 
                         <section class="related-applications">
                             <div class="row">
-                                <div class="col-xs-12">
-                                    <h3>RELATED APPLICATIONS</h3>
-                                </div>
-                                <div class="col-md-3 related-application">
-                                    <div class="img-wrapper">
-                                        <a href="#">
-                                            <figure>
-                                                <img src="assets/images/industries/application-images/dna.jpg" alt="Application: Automated High-Throughput Dense Matrix Protein Folding Screen Using a Liquid Handling Robot Combined with...">
-                                                <figcaption>
-                                                    Automated High-Throughput Dense Matrix Protein Folding Screen Using a Liquid Handling Robot Combined with...
-                                                </figcaption>
-                                            </figure>
-                                        </a>
-                                        <p>Recombinant E.coli expressing mammalian genes were disrupted for the purpose of utilizing a high throughput automation device to screen cells with correct and active proteins. </p>
-                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                <h3>RELATED APPLICATIONS</h3>
+                                <div class="applications">
+                                    <div class="application">
+                                        <div class="img-wrapper">
+                                            <a href="#">
+                                                <figure>
+                                                    <img src="assets/images/industries/application-images/dna.jpg" alt="Application: Automated High-Throughput Dense Matrix Protein Folding Screen Using a Liquid Handling Robot Combined with...">
+                                                    <figcaption>
+                                                        Automated High-Throughput Dense Matrix Protein Folding Screen Using a Liquid Handling Robot Combined with...
+                                                    </figcaption>
+                                                </figure>
+                                            </a>
+                                            <p>Recombinant E.coli expressing mammalian genes were disrupted for the purpose of utilizing a high throughput automation device to screen cells with correct and active proteins. </p>
+                                            <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 related-application">
-                                    <div class="img-wrapper">
-                                        <a href="#">
-                                            <figure>
-                                                <img src="assets/images/industries/application-images/ricin-flower.jpg" alt="Application: Detection of ricin contamination in liquid egg by electrochemiluminescence immunosorbent assay">
-                                                <figcaption>
-                                                    Detection of ricin contamination in liquid egg by electrochemiluminescence immunosorbent assay
-                                                </figcaption>
-                                            </figure>
-                                        </a>
-                                        <p>A method for detecting ricin in liquid eggs through western blotting was developed.</p>
-                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                    <div class="application">
+                                        <div class="img-wrapper">
+                                            <a href="#">
+                                                <figure>
+                                                    <img src="assets/images/industries/application-images/ricin-flower.jpg" alt="Application: Detection of ricin contamination in liquid egg by electrochemiluminescence immunosorbent assay">
+                                                    <figcaption>
+                                                        Detection of ricin contamination in liquid egg by electrochemiluminescence immunosorbent assay
+                                                    </figcaption>
+                                                </figure>
+                                            </a>
+                                            <p>A method for detecting ricin in liquid eggs through western blotting was developed.</p>
+                                            <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 related-application">
-                                    <div class="img-wrapper">
-                                        <a href="#">
-                                            <figure>
-                                                <img src="assets/images/industries/application-images/mushroom-cap.jpg" alt="Application: Optimal Culture Conditions for Mycelial Growth &amp; Exo-polymer Production of Ganoderma applanatum">
-                                                <figcaption>
-                                                    Optimal Culture Conditions for Mycelial Growth &amp; Exo-polymer Production of Ganoderma a
-                                                </figcaption>
-                                            </figure>
-                                        </a>
-                                        <p>The effect of fermentation parameters and medium composition on the simultaneous mycelial growth and exo-polymer production from submerged cultures of Ganoderma applanatum was investigated in shake-flask cultures.</p>
-                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                    <div class="application">
+                                        <div class="img-wrapper">
+                                            <a href="#">
+                                                <figure>
+                                                    <img src="assets/images/industries/application-images/mushroom-cap.jpg" alt="Application: Optimal Culture Conditions for Mycelial Growth &amp; Exo-polymer Production of Ganoderma applanatum">
+                                                    <figcaption>
+                                                        Optimal Culture Conditions for Mycelial Growth &amp; Exo-polymer Production of Ganoderma a
+                                                    </figcaption>
+                                                </figure>
+                                            </a>
+                                            <p>The effect of fermentation parameters and medium composition on the simultaneous mycelial growth and exo-polymer production from submerged cultures of Ganoderma applanatum was investigated in shake-flask cultures.</p>
+                                            <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 related-application">
-                                    <div class="img-wrapper">
-                                        <a href="#">
-                                            <figure>
-                                                <img src="assets/images/industries/application-images/bovine-kidney.jpg" alt="Application: A determinative &amp; confirmatory method for ceftiofur metabolite desfuroylceftiofur cysteine disulfide in bovine kidney by LC–MS/MS">
-                                                <figcaption>
-                                                    A determinative &amp; confirmatory method for ceftiofur metabolite desfuroylceftiofur cysteine disulfide in bovine kidney by LC–MS/MS
-                                                </figcaption>
-                                            </figure>
-                                        </a>
-                                        <p>Bovine kidney was homogenized on an Omni Prep homogenizer with Omni Hard Tissue Tips. Desfuroylceftiofur cystein disulfide was extracted by SPE and quantified by LC-MS/MS.</p>
-                                        <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                    <div class="application">
+                                        <div class="img-wrapper">
+                                            <a href="#">
+                                                <figure>
+                                                    <img src="assets/images/industries/application-images/bovine-kidney.jpg" alt="Application: A determinative &amp; confirmatory method for ceftiofur metabolite desfuroylceftiofur cysteine disulfide in bovine kidney by LC–MS/MS">
+                                                    <figcaption>
+                                                        A determinative &amp; confirmatory method for ceftiofur metabolite desfuroylceftiofur cysteine disulfide in bovine kidney by LC–MS/MS
+                                                    </figcaption>
+                                                </figure>
+                                            </a>
+                                            <p>Bovine kidney was homogenized on an Omni Prep homogenizer with Omni Hard Tissue Tips. Desfuroylceftiofur cystein disulfide was extracted by SPE and quantified by LC-MS/MS.</p>
+                                            <a href="" class="btn btn-solid btn-wide">DISCOVER</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -100,10 +100,9 @@
 
                         <section class="related-products">
                             <div class="row">
-                                <div class="col-xs-12">
-                                    <h3>RELATED PRODUCTS</h3>
-                                </div>
-                                <div class="col-md-3 related-product">
+                                <h3>RELATED PRODUCTS</h3>
+                                <div class="products">
+                                    <div class="product">
                                     <div class="img-wrapper">
                                         <figure>
                                             <img src="assets/images/industries/related-products/lh96.png" alt="LH96 Automated Homogenizer">
@@ -115,7 +114,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3 related-product">
+                                <div class="product">
                                     <div class="img-wrapper">
                                         <figure>
                                             <img src="assets/images/industries/related-products/beadRuptorElite.png" alt="Bead Ruptor Elite">
@@ -127,7 +126,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3 related-product">
+                                <div class="product">
                                     <div class="img-wrapper">
                                         <figure>
                                             <img src="assets/images/industries/related-products/samplePrep96.png" alt="Omni Prep Multi-Sample Homogenizer">
@@ -139,7 +138,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3 related-product">
+                                <div class="product">
                                     <div class="img-wrapper">
                                         <figure>
                                             <img src="assets/images/industries/related-products/tissueDnaKit.png" alt="Tissue DNA Kit">
@@ -150,6 +149,7 @@
                                             <a href="" class="btn btn-solid btn-wide">VIEW PRODUCT</a>
                                         </div>
                                     </div>
+                                </div>
                                 </div>
                             </div>
                         </section>

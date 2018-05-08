@@ -401,7 +401,68 @@
                             <span class="login hidden"><a href="">Login</a></span>
                             <span class="customer-name hidden-sm hidden-xs"><a href="">James</a> | </span>
                             <span class="logout hidden-sm hidden-xs"><a href="">Logout</a></span>
-                            <div class="distributor-selector data-txt hidden-xs hidden-sm" data-txt="Select Country"><a href=""> <span class="country">United States</span> </a></div>
+                            <div class="distributor-selector data-txt hidden-xs hidden-sm" data-txt="Select Country"><span class="country">United States</span></div>
+                            <div id="locationModal" style="display:none;">
+                                <div class="loading">
+                                <img src="http://www.nerdycoder.com/travis/spinner.gif" alt="Omni Loading icon">
+                                <span>Loading Countries of Distributors</span>
+                                </div>
+                                <div class="top-bar">
+                                <div class="selectCountry">
+                                    <h4>PLEASE SELECT YOUR COUNTRY</h4>
+                                </div>
+                                <div class="selectDistributor close">
+                                    <h4>PLEASE SELECT YOUR DISTRIBUTOR</h4>
+                                </div>
+                                </div>
+                                <div class="content distributors" id="distributorSection">
+                                </div>
+                                <div class="content country" id="countrySection">		
+                                <div class="col">
+                                    <div class="country europe">
+                                    <div class="continent">EUROPE</div>
+                                    <ul class="left"></ul>
+                                    <ul class="right"></ul>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="country north_america">
+                                    <div class="continent">North America</div>
+                                        <ul>
+                                        </ul>
+                                    </div>
+                                    <div class="country south_america">
+                                    <div class="continent">South America</div>
+                                    <ul>
+                                    </ul>
+                                    </div>
+                                    <div class="country other">
+                                    <div class="continent">OTHER COUNTRIES</div>
+                                        <ul>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="country asia_pacific">
+                                    <div class="continent">ASIA/PACIFIC</div>
+                                    <ul>
+
+                                    </ul>
+                                    </div>
+                                </div>
+                                </div>
+                                <div style="clear:both"></div>
+                                <div class="bottom-bar">
+                                <div class="remember-me">
+                                    <input id="dataCountry" type="hidden" value="" name="dataCountryTxt">
+                                    <input id="dataCountryName" type="hidden" value="" name="dataCountryNameTxt">
+                                    <input type="checkbox" id="rememberMe" checked="checked">Remember my country selection and make that my default destination when visiting omni.com
+                                </div>
+                                <div class="distributor-bar close">
+                                    <button class="btn go-back" disabled="true">GO BACK TO COUNTRY LIST</button>
+                                </div>
+                                </div>
+                            </div>
                             <div class="quote dropdown-module data-txt hidden-md hidden-lg">
                                 <svg class="data-txt" data-txt="Quote" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 89.1 70.3" style="enable-background:new 0 0 89.1 70.3;" xml:space="preserve">
                             <style type="text/css">

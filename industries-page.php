@@ -26,7 +26,7 @@
                     <div class="container">
                         <div class="industries-list">
                             <ul class="list">
-                                <li class="col-md-4 col-sm-6">
+                                <li>
                                     <div class="wrapper">
                                         <h4>Pharmaceutical &amp; Life Science</h4>
                                         <img src="assets/images/icons/pharmaceutical1.svg" alt="Pharmaceutical and Life Science Industry Icon">
@@ -34,7 +34,7 @@
                                         <a href="<?php echo $baseURL ?>pharmaceutical-cat-page.php" class="btn btn-solid btn-wide">DISCOVER</a>
                                     </div>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
+                                <li>
                                     <div class="wrapper">
                                         <h4>Food</h4>
                                         <img src="assets/images/icons/food.svg" alt="Food Industry Icon">
@@ -42,7 +42,7 @@
                                         <a href="<?php echo $baseURL ?>food-cat-page.php" class="btn btn-solid btn-wide">DISCOVER</a>
                                     </div>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
+                                <li>
                                     <div class="wrapper">
                                         <h4>Environmental</h4>
                                         <img src="assets/images/icons/environmental.svg" alt="Environmental Industry Icon">
@@ -50,7 +50,7 @@
                                         <a href="<?php echo $baseURL ?>environmental-cat-page.php" class="btn btn-solid btn-wide">DISCOVER</a>
                                     </div>
                                 </li>
-                                <li class="col-md-4 col-sm-6">
+                                <li>
                                     <div class="wrapper">
                                         <h4>Forensics</h4>
                                         <img src="assets/images/icons/forensics.svg" alt="Forensics Industry Icon">
@@ -58,7 +58,7 @@
                                         <a href="<?php echo $baseURL ?>forensics-cat-page.php" class="btn btn-solid btn-wide">DISCOVER</a>
                                     </div>          
                                 </li>
-                                <li class="col-md-4 col-sm-6">
+                                <li>
                                     <div class="wrapper">
                                         <h4>Cannabis Testing</h4>
                                         <img src="assets/images/icons/cannabis.svg" alt="Cannabis Industry Icon">

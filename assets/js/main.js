@@ -16,13 +16,15 @@ $(document).ready(function () {
 		directoryModuleBtn = $("img.logo"),
 		contactModuleBtn = $(".open-contact"),
 		contactExpertBtn = $(".top-footer").find('button'),
-		darkOverlay = $(".dark-overlay"),
-		videoFilter = $(".filter"),
-		dropDownPanel = $('.dropdown-panel'),
-		videoMessages = $('.search-message'),
-		searchVideoBar = $('#search-video');
+		darkOverlay = $(".dark-overlay");
 		
-
+		
+	// VIDEO PAGE SCRIPTS
+	var videoMessages = $('.search-message');
+	var searchVideoBar = $('#search-video');
+	var videoFilter = $(".filter");
+	var SearchGo = $(".search-go");
+	var dropDownPanel = $('.dropdown-panel');
 	function InitVideo(url) {
 		this.paramObj = {};
 		this._url = url;
@@ -73,6 +75,7 @@ $(document).ready(function () {
 				parsedVideoStr += videoStr[i] + ' ';
 			}
 			parsedVideoStr = parsedVideoStr.trim();
+			console.log('element: ', $("h4[name*='" + parsedVideoStr + "']"));
 			if ($("h4[name*='" + parsedVideoStr + "']").length > 0) {
 				var vid = $("h4[name*='" + parsedVideoStr + "']").offsetParent();
 				if($("h4[name*='" + parsedVideoStr + "']").offsetParent()[0].nodeName === 'LI'){
@@ -187,7 +190,11 @@ $(document).ready(function () {
 	startVideoPage.init();
 	searchVideoBar.on('submit', function(e){
 		var self = e;
+		console.log('e', e);
 		startVideoPage.search(self);
+	});
+	SearchGo.on('click', function(e){
+		searchVideoBar.submit();
 	});
 	videoFilter.on('click', function(){
 		startVideoPage.createCatlist();
